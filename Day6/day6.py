@@ -18,43 +18,87 @@ class space_object:
 
 
 def main():
-    test_input = "COM)B\nB)C\nC)D\nD)E\nE)F\nB)G\nG)H\nD)I\nE)J\nJ)K\nK)L"
-    space_objects = string_to_orbit(test_input)
+    test_input = "COM)B\nB)C\nC)D\nD)E\nE)F\nB)G\nG)H\nD)I\nE)J\nJ)K\nK)L\nK)YOU\nI)SAN"
+    input = get_string_from_file()
+    space_objects = string_to_orbit(input)
+    sum = 0
     print_space_object_info(space_objects)
-    num = count_direct_and_indirect(space_objects)
-    print(f"Total direct + indirect = {num}")
+    print(len(space_objects))
+    for key in space_objects:
+        sum += count_parents(space_objects[key], space_objects)
+    print(sum)
+    paths = shortest_path(space_objects, space_objects["YOU"], space_objects["SAN"])
+    print(paths["SAN"] - 2)
     
 
-def count_direct_and_indirect(space_objects):
-    for space_obj in space_objects:
+def count_parents(space_obj, space_objects):
+    if space_obj.orbits:
+        return 1 + count_parents(space_objects[space_obj.orbits.name], space_objects)
+    else:
+        return 0
+
         
                 
 def get_string_from_file():
-    with open("input.txt") as f:
+    with open("C:/Users/isaac/Documents/MyProjects/AdventOfCode/Day6/input.txt") as f:
         return f.read()
 
 def print_space_object_info(space_objects):
-    for space_obj in space_objects:
-        print(f"Name: {space_obj.name}")
-        print(f"Orbits: {space_obj.orbits}")
-        print(f"These objects oribt around {space_obj.name}: {space_obj.orbiter}")
-        print("---------------------")
+    with open("output.txt", "w+") as f:
+        for key in space_objects:
+            f.write(f"Name: {space_objects[key].name}\n")
+            f.write(f"Orbits: {space_objects[key].orbits}\n")
+            f.write(f"These objects orbit around {space_objects[key].name}: {space_objects[key].orbiter}\n")
+            f.write("---------------------\n")
 
 def string_to_orbit(input):
-    space_objects = []
+    space_objects = {}
     orbit_data = input.split("\n")
     for data in orbit_data:
         names = data.split(")")
         object1 = space_object(name = names[0])
-        object1.add_orbiter(names[1])
-        object2 = space_object(name = names[1], orbits = names[0])
-        if object1 not in space_objects:
-            space_objects.append(object1)
+        object2 = space_object(name = names[1], orbits = object1)
+        object1.add_orbiter(object2)
+        if object1.name not in space_objects:
+            space_objects[object1.name] = object1
         else:
-            space_objects[space_objects.index(object1)].orbiter += (object1.orbiter)
-        if object2 not in space_objects:
-            space_objects.append(object2)
+            space_objects[object1.name].orbiter.append(object2)
+        if object2.name not in space_objects:
+            space_objects[object2.name] = object2
+        else:
+            space_objects[object2.name].orbits = object1
     return space_objects
+
+def shortest_path(space_objects, start_object, end_object):
+    unsolved = []
+    to_solve = {}
+    solved = {}
+    for key in space_objects:
+        unsolved.append(key)
+    unsolved.remove(start_object.name)
+    to_solve[start_object.name] = 0
+    cur = start_object
+    dist_to_cur = 0
+    while end_object.name not in solved:
+        will_solve = {}
+        for planet in to_solve:
+            if planet not in solved:
+                for orb in space_objects[planet].orbiter:
+                    if space_objects[orb.name].name not in to_solve and space_objects[orb.name].name not in solved:
+                        will_solve[space_objects[orb.name].name] = dist_to_cur + 1
+                if space_objects[planet].orbits and (space_objects[planet].orbits.name not in to_solve) and (space_objects[planet].orbits.name not in solved):
+                    will_solve[space_objects[planet].orbits.name] = dist_to_cur + 1
+                value = to_solve[planet]
+                solved[planet] = value
+                if end_object.name in solved:
+                    return solved
+                
+        to_solve = will_solve
+        dist_to_cur += 1
+        
+
+
+
     
 
 if __name__ == "__main__":

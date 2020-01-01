@@ -1,0 +1,5912 @@
+Name: DGS
+Orbits: GHB
+These objects orbit around DGS: [1HY]
+---------------------
+Name: 1HY
+Orbits: DGS
+These objects orbit around 1HY: [ZPY]
+---------------------
+Name: FYY
+Orbits: G5V
+These objects orbit around FYY: [13C]
+---------------------
+Name: 13C
+Orbits: FYY
+These objects orbit around 13C: [HDT]
+---------------------
+Name: RPN
+Orbits: S8C
+These objects orbit around RPN: [9C5]
+---------------------
+Name: 9C5
+Orbits: RPN
+These objects orbit around 9C5: [VJH, BS2]
+---------------------
+Name: NNV
+Orbits: YMP
+These objects orbit around NNV: [CVR]
+---------------------
+Name: CVR
+Orbits: NNV
+These objects orbit around CVR: []
+---------------------
+Name: BVN
+Orbits: F78
+These objects orbit around BVN: [BCH]
+---------------------
+Name: BCH
+Orbits: BVN
+These objects orbit around BCH: [TQ7]
+---------------------
+Name: 39R
+Orbits: 74X
+These objects orbit around 39R: [BPR]
+---------------------
+Name: BPR
+Orbits: 39R
+These objects orbit around BPR: [F5T]
+---------------------
+Name: 43R
+Orbits: P5G
+These objects orbit around 43R: [CPB]
+---------------------
+Name: CPB
+Orbits: 43R
+These objects orbit around CPB: [L9B]
+---------------------
+Name: XFB
+Orbits: DKL
+These objects orbit around XFB: [J3X]
+---------------------
+Name: J3X
+Orbits: XFB
+These objects orbit around J3X: [BQ2, XVH]
+---------------------
+Name: LS3
+Orbits: DKL
+These objects orbit around LS3: [D2Z]
+---------------------
+Name: D2Z
+Orbits: LS3
+These objects orbit around D2Z: [38X]
+---------------------
+Name: 8KB
+Orbits: JBZ
+These objects orbit around 8KB: [XX5]
+---------------------
+Name: XX5
+Orbits: 8KB
+These objects orbit around XX5: [2LQ]
+---------------------
+Name: MDK
+Orbits: 25M
+These objects orbit around MDK: [2YB]
+---------------------
+Name: 2YB
+Orbits: MDK
+These objects orbit around 2YB: [PM7]
+---------------------
+Name: NFX
+Orbits: 6YS
+These objects orbit around NFX: [8GF, SD3]
+---------------------
+Name: 8GF
+Orbits: NFX
+These objects orbit around 8GF: [WTQ]
+---------------------
+Name: KV6
+Orbits: 526
+These objects orbit around KV6: [T6S]
+---------------------
+Name: T6S
+Orbits: KV6
+These objects orbit around T6S: [6PR]
+---------------------
+Name: ZDP
+Orbits: 6PB
+These objects orbit around ZDP: [163]
+---------------------
+Name: 163
+Orbits: ZDP
+These objects orbit around 163: [MZ5]
+---------------------
+Name: CM4
+Orbits: JH9
+These objects orbit around CM4: [453]
+---------------------
+Name: 453
+Orbits: CM4
+These objects orbit around 453: [WBK]
+---------------------
+Name: FR8
+Orbits: JL3
+These objects orbit around FR8: [ZV2]
+---------------------
+Name: ZV2
+Orbits: FR8
+These objects orbit around ZV2: [MPW, R9Y]
+---------------------
+Name: FQG
+Orbits: 2Z6
+These objects orbit around FQG: [QXG]
+---------------------
+Name: QXG
+Orbits: FQG
+These objects orbit around QXG: [2KL]
+---------------------
+Name: ZLY
+Orbits: Y8H
+These objects orbit around ZLY: [G8X]
+---------------------
+Name: G8X
+Orbits: ZLY
+These objects orbit around G8X: [FCN]
+---------------------
+Name: 81Q
+Orbits: 2ZW
+These objects orbit around 81Q: [GKB]
+---------------------
+Name: GKB
+Orbits: 81Q
+These objects orbit around GKB: [QWF]
+---------------------
+Name: V33
+Orbits: 18S
+These objects orbit around V33: [QBG, 899]
+---------------------
+Name: QBG
+Orbits: V33
+These objects orbit around QBG: [X47]
+---------------------
+Name: BXZ
+Orbits: TZV
+These objects orbit around BXZ: [724]
+---------------------
+Name: 724
+Orbits: BXZ
+These objects orbit around 724: [Z38]
+---------------------
+Name: T4W
+Orbits: ZLL
+These objects orbit around T4W: [XJ4, 1Z2]
+---------------------
+Name: XJ4
+Orbits: T4W
+These objects orbit around XJ4: [3WK]
+---------------------
+Name: BM6
+Orbits: 5K8
+These objects orbit around BM6: [CW1]
+---------------------
+Name: CW1
+Orbits: BM6
+These objects orbit around CW1: [6B4]
+---------------------
+Name: W5P
+Orbits: 6ND
+These objects orbit around W5P: [HWD]
+---------------------
+Name: HWD
+Orbits: W5P
+These objects orbit around HWD: [ZK6]
+---------------------
+Name: 3LQ
+Orbits: 3SF
+These objects orbit around 3LQ: [1BF]
+---------------------
+Name: 1BF
+Orbits: 3LQ
+These objects orbit around 1BF: []
+---------------------
+Name: 7R1
+Orbits: 7KM
+These objects orbit around 7R1: [GL2]
+---------------------
+Name: GL2
+Orbits: 7R1
+These objects orbit around GL2: [5QV]
+---------------------
+Name: 1KM
+Orbits: FB9
+These objects orbit around 1KM: [R91]
+---------------------
+Name: R91
+Orbits: 1KM
+These objects orbit around R91: [CQW]
+---------------------
+Name: J19
+Orbits: WYQ
+These objects orbit around J19: [55D]
+---------------------
+Name: 55D
+Orbits: J19
+These objects orbit around 55D: []
+---------------------
+Name: VW9
+Orbits: XF7
+These objects orbit around VW9: [PFT]
+---------------------
+Name: PFT
+Orbits: VW9
+These objects orbit around PFT: [1FL]
+---------------------
+Name: S9F
+Orbits: HL6
+These objects orbit around S9F: [393]
+---------------------
+Name: 393
+Orbits: S9F
+These objects orbit around 393: [68H]
+---------------------
+Name: ZR3
+Orbits: 3CS
+These objects orbit around ZR3: [TVM, DVT]
+---------------------
+Name: TVM
+Orbits: ZR3
+These objects orbit around TVM: [XC9, C3Y]
+---------------------
+Name: KM9
+Orbits: BBR
+These objects orbit around KM9: [K5D]
+---------------------
+Name: K5D
+Orbits: KM9
+These objects orbit around K5D: [9SQ]
+---------------------
+Name: B7P
+Orbits: TC8
+These objects orbit around B7P: [ZFJ]
+---------------------
+Name: ZFJ
+Orbits: B7P
+These objects orbit around ZFJ: [JJQ]
+---------------------
+Name: G2Q
+Orbits: CRK
+These objects orbit around G2Q: [C7N]
+---------------------
+Name: C7N
+Orbits: G2Q
+These objects orbit around C7N: [WBB]
+---------------------
+Name: 9C7
+Orbits: 17P
+These objects orbit around 9C7: [QTH]
+---------------------
+Name: QTH
+Orbits: 9C7
+These objects orbit around QTH: [1NR]
+---------------------
+Name: BS2
+Orbits: 9C5
+These objects orbit around BS2: [7NB]
+---------------------
+Name: 7NB
+Orbits: BS2
+These objects orbit around 7NB: [LQY]
+---------------------
+Name: 5QV
+Orbits: GL2
+These objects orbit around 5QV: [K91]
+---------------------
+Name: K91
+Orbits: 5QV
+These objects orbit around K91: [XGP]
+---------------------
+Name: L1Y
+Orbits: Z1Z
+These objects orbit around L1Y: [VX5, V6W]
+---------------------
+Name: VX5
+Orbits: L1Y
+These objects orbit around VX5: [3SF]
+---------------------
+Name: PBY
+Orbits: TNX
+These objects orbit around PBY: [XFL]
+---------------------
+Name: XFL
+Orbits: PBY
+These objects orbit around XFL: [G9W]
+---------------------
+Name: TC8
+Orbits: B16
+These objects orbit around TC8: [B7P, P2P]
+---------------------
+Name: T7C
+Orbits: TCC
+These objects orbit around T7C: [5WZ]
+---------------------
+Name: 5WZ
+Orbits: T7C
+These objects orbit around 5WZ: [VDR]
+---------------------
+Name: 6HZ
+Orbits: CY1
+These objects orbit around 6HZ: [NRW]
+---------------------
+Name: NRW
+Orbits: 6HZ
+These objects orbit around NRW: [K2S]
+---------------------
+Name: FPT
+Orbits: 3BP
+These objects orbit around FPT: [C75]
+---------------------
+Name: C75
+Orbits: FPT
+These objects orbit around C75: [QRD]
+---------------------
+Name: FRK
+Orbits: 59Y
+These objects orbit around FRK: [R9F]
+---------------------
+Name: R9F
+Orbits: FRK
+These objects orbit around R9F: [NHC]
+---------------------
+Name: RXL
+Orbits: TLL
+These objects orbit around RXL: [WPB, 3NN]
+---------------------
+Name: WPB
+Orbits: RXL
+These objects orbit around WPB: [YH7]
+---------------------
+Name: LSG
+Orbits: S39
+These objects orbit around LSG: [SYB]
+---------------------
+Name: SYB
+Orbits: LSG
+These objects orbit around SYB: [NLY]
+---------------------
+Name: WZ5
+Orbits: 6GJ
+These objects orbit around WZ5: [86T]
+---------------------
+Name: 86T
+Orbits: WZ5
+These objects orbit around 86T: [K57]
+---------------------
+Name: 6NG
+Orbits: 5D3
+These objects orbit around 6NG: [C6C]
+---------------------
+Name: C6C
+Orbits: 6NG
+These objects orbit around C6C: [GT6]
+---------------------
+Name: VHQ
+Orbits: F73
+These objects orbit around VHQ: [P2S, GN4]
+---------------------
+Name: P2S
+Orbits: VHQ
+These objects orbit around P2S: [2RB]
+---------------------
+Name: CCN
+Orbits: N6X
+These objects orbit around CCN: [3PP]
+---------------------
+Name: 3PP
+Orbits: CCN
+These objects orbit around 3PP: [BZY]
+---------------------
+Name: Y8H
+Orbits: 3VX
+These objects orbit around Y8H: [ZLY]
+---------------------
+Name: 3V6
+Orbits: QRD
+These objects orbit around 3V6: [XBW, W85]
+---------------------
+Name: XBW
+Orbits: 3V6
+These objects orbit around XBW: [5LC]
+---------------------
+Name: GGS
+Orbits: GMK
+These objects orbit around GGS: [3HX]
+---------------------
+Name: 3HX
+Orbits: GGS
+These objects orbit around 3HX: [9T1]
+---------------------
+Name: FK6
+Orbits: Y28
+These objects orbit around FK6: [VTV]
+---------------------
+Name: VTV
+Orbits: FK6
+These objects orbit around VTV: [1SP]
+---------------------
+Name: 2M1
+Orbits: 1DN
+These objects orbit around 2M1: [LNP, NCD]
+---------------------
+Name: LNP
+Orbits: 2M1
+These objects orbit around LNP: [2TR]
+---------------------
+Name: 3WK
+Orbits: XJ4
+These objects orbit around 3WK: [BVF]
+---------------------
+Name: BVF
+Orbits: 3WK
+These objects orbit around BVF: [7KH]
+---------------------
+Name: T2W
+Orbits: QKL
+These objects orbit around T2W: [HRB]
+---------------------
+Name: HRB
+Orbits: T2W
+These objects orbit around HRB: [15L]
+---------------------
+Name: C2T
+Orbits: X7S
+These objects orbit around C2T: [XSR, 3QM]
+---------------------
+Name: XSR
+Orbits: C2T
+These objects orbit around XSR: [PND]
+---------------------
+Name: HVF
+Orbits: 31T
+These objects orbit around HVF: [N5T]
+---------------------
+Name: N5T
+Orbits: HVF
+These objects orbit around N5T: [HTQ]
+---------------------
+Name: MPK
+Orbits: G7M
+These objects orbit around MPK: [X68, W89]
+---------------------
+Name: X68
+Orbits: MPK
+These objects orbit around X68: [31T]
+---------------------
+Name: X1H
+Orbits: CBX
+These objects orbit around X1H: [HXJ]
+---------------------
+Name: HXJ
+Orbits: X1H
+These objects orbit around HXJ: [5BP]
+---------------------
+Name: SD1
+Orbits: LVB
+These objects orbit around SD1: [CG7]
+---------------------
+Name: CG7
+Orbits: SD1
+These objects orbit around CG7: [V36, LBK]
+---------------------
+Name: ZLL
+Orbits: MMH
+These objects orbit around ZLL: [T4W]
+---------------------
+Name: VHS
+Orbits: ZCF
+These objects orbit around VHS: [2G7]
+---------------------
+Name: 2G7
+Orbits: VHS
+These objects orbit around 2G7: [RB5]
+---------------------
+Name: HKC
+Orbits: SBV
+These objects orbit around HKC: [CJF]
+---------------------
+Name: CJF
+Orbits: HKC
+These objects orbit around CJF: [PXW]
+---------------------
+Name: DW1
+Orbits: 9VB
+These objects orbit around DW1: [F82, GJB]
+---------------------
+Name: F82
+Orbits: DW1
+These objects orbit around F82: [CY1]
+---------------------
+Name: LWP
+Orbits: 3S3
+These objects orbit around LWP: [C3M]
+---------------------
+Name: C3M
+Orbits: LWP
+These objects orbit around C3M: [R8R]
+---------------------
+Name: 7KH
+Orbits: BVF
+These objects orbit around 7KH: [S8C]
+---------------------
+Name: S8C
+Orbits: 7KH
+These objects orbit around S8C: [RPN]
+---------------------
+Name: TTP
+Orbits: 2CL
+These objects orbit around TTP: [BVM]
+---------------------
+Name: BVM
+Orbits: TTP
+These objects orbit around BVM: []
+---------------------
+Name: JCM
+Orbits: HHP
+These objects orbit around JCM: [3HJ, B2S]
+---------------------
+Name: 3HJ
+Orbits: JCM
+These objects orbit around 3HJ: [B7D, QKL]
+---------------------
+Name: RBT
+Orbits: WVG
+These objects orbit around RBT: [9XB]
+---------------------
+Name: 9XB
+Orbits: RBT
+These objects orbit around 9XB: [M9M]
+---------------------
+Name: 7CG
+Orbits: QKX
+These objects orbit around 7CG: [7B6]
+---------------------
+Name: 7B6
+Orbits: 7CG
+These objects orbit around 7B6: [CQJ]
+---------------------
+Name: Y8B
+Orbits: K76
+These objects orbit around Y8B: [MX2]
+---------------------
+Name: MX2
+Orbits: Y8B
+These objects orbit around MX2: [HJZ]
+---------------------
+Name: Z38
+Orbits: 724
+These objects orbit around Z38: [N38]
+---------------------
+Name: 6V6
+Orbits: 8Y7
+These objects orbit around 6V6: [TR7]
+---------------------
+Name: TR7
+Orbits: 6V6
+These objects orbit around TR7: [5VN]
+---------------------
+Name: 6CP
+Orbits: 5VP
+These objects orbit around 6CP: [67M]
+---------------------
+Name: 67M
+Orbits: 6CP
+These objects orbit around 67M: [KXH, ZVN]
+---------------------
+Name: DNV
+Orbits: 4GR
+These objects orbit around DNV: [9MG]
+---------------------
+Name: 9MG
+Orbits: DNV
+These objects orbit around 9MG: [8HM]
+---------------------
+Name: Q83
+Orbits: NS5
+These objects orbit around Q83: [2BQ]
+---------------------
+Name: 2BQ
+Orbits: Q83
+These objects orbit around 2BQ: [BMV]
+---------------------
+Name: KX1
+Orbits: HW1
+These objects orbit around KX1: [MJC]
+---------------------
+Name: MJC
+Orbits: KX1
+These objects orbit around MJC: [ZG6]
+---------------------
+Name: HDT
+Orbits: 13C
+These objects orbit around HDT: [RSV, TCD]
+---------------------
+Name: RSV
+Orbits: HDT
+These objects orbit around RSV: [CMQ]
+---------------------
+Name: HG6
+Orbits: TRZ
+These objects orbit around HG6: [9NW, DGX]
+---------------------
+Name: 9NW
+Orbits: HG6
+These objects orbit around 9NW: [H57]
+---------------------
+Name: Y74
+Orbits: TWQ
+These objects orbit around Y74: [S14, Z1Z]
+---------------------
+Name: S14
+Orbits: Y74
+These objects orbit around S14: [LVB]
+---------------------
+Name: N56
+Orbits: 8DV
+These objects orbit around N56: [NRN, 1Z7]
+---------------------
+Name: NRN
+Orbits: N56
+These objects orbit around NRN: [MY4, 9F6]
+---------------------
+Name: G8P
+Orbits: 95P
+These objects orbit around G8P: [XH4]
+---------------------
+Name: XH4
+Orbits: G8P
+These objects orbit around XH4: [576]
+---------------------
+Name: VK7
+Orbits: TRW
+These objects orbit around VK7: [R7C]
+---------------------
+Name: R7C
+Orbits: VK7
+These objects orbit around R7C: [JXH]
+---------------------
+Name: CB5
+Orbits: 2BZ
+These objects orbit around CB5: [S7X]
+---------------------
+Name: S7X
+Orbits: CB5
+These objects orbit around S7X: [3CS]
+---------------------
+Name: NFW
+Orbits: TMQ
+These objects orbit around NFW: [P89, PJ9]
+---------------------
+Name: P89
+Orbits: NFW
+These objects orbit around P89: []
+---------------------
+Name: 8VG
+Orbits: K2S
+These objects orbit around 8VG: [RLN]
+---------------------
+Name: RLN
+Orbits: 8VG
+These objects orbit around RLN: []
+---------------------
+Name: GJB
+Orbits: DW1
+These objects orbit around GJB: [JYR]
+---------------------
+Name: JYR
+Orbits: GJB
+These objects orbit around JYR: [CBX]
+---------------------
+Name: BQX
+Orbits: 4SS
+These objects orbit around BQX: [G73]
+---------------------
+Name: G73
+Orbits: BQX
+These objects orbit around G73: [FN7]
+---------------------
+Name: TWQ
+Orbits: WXG
+These objects orbit around TWQ: [Y74]
+---------------------
+Name: K57
+Orbits: 86T
+These objects orbit around K57: [DGD]
+---------------------
+Name: DGD
+Orbits: K57
+These objects orbit around DGD: [5WX]
+---------------------
+Name: NLY
+Orbits: SYB
+These objects orbit around NLY: [1SZ]
+---------------------
+Name: 1SZ
+Orbits: NLY
+These objects orbit around 1SZ: [F57]
+---------------------
+Name: VF8
+Orbits: 9GL
+These objects orbit around VF8: [BTV]
+---------------------
+Name: BTV
+Orbits: VF8
+These objects orbit around BTV: [314]
+---------------------
+Name: JGX
+Orbits: 7NY
+These objects orbit around JGX: [489]
+---------------------
+Name: 489
+Orbits: JGX
+These objects orbit around 489: [8P1]
+---------------------
+Name: MYZ
+Orbits: PKC
+These objects orbit around MYZ: [LVD, TQ6]
+---------------------
+Name: LVD
+Orbits: MYZ
+These objects orbit around LVD: [17P]
+---------------------
+Name: WXN
+Orbits: J4Z
+These objects orbit around WXN: [DJR, V3D]
+---------------------
+Name: DJR
+Orbits: WXN
+These objects orbit around DJR: [D4R]
+---------------------
+Name: 6G2
+Orbits: KPZ
+These objects orbit around 6G2: [2BG]
+---------------------
+Name: 2BG
+Orbits: 6G2
+These objects orbit around 2BG: [8RZ]
+---------------------
+Name: 3M5
+Orbits: MC7
+These objects orbit around 3M5: [J4S]
+---------------------
+Name: J4S
+Orbits: 3M5
+These objects orbit around J4S: [71W]
+---------------------
+Name: 7BD
+Orbits: G9R
+These objects orbit around 7BD: [F3Q, 5SJ]
+---------------------
+Name: F3Q
+Orbits: 7BD
+These objects orbit around F3Q: [7XM]
+---------------------
+Name: W8M
+Orbits: Q76
+These objects orbit around W8M: [6FC]
+---------------------
+Name: 6FC
+Orbits: W8M
+These objects orbit around 6FC: [X7S]
+---------------------
+Name: 6J4
+Orbits: PNR
+These objects orbit around 6J4: [4DD, P25]
+---------------------
+Name: 4DD
+Orbits: 6J4
+These objects orbit around 4DD: [HVH, 9M6]
+---------------------
+Name: 7Y1
+Orbits: 839
+These objects orbit around 7Y1: [1P7]
+---------------------
+Name: 1P7
+Orbits: 7Y1
+These objects orbit around 1P7: [HBH]
+---------------------
+Name: GMJ
+Orbits: YZQ
+These objects orbit around GMJ: [46H, BGP]
+---------------------
+Name: 46H
+Orbits: GMJ
+These objects orbit around 46H: [MZ1]
+---------------------
+Name: G5C
+Orbits: DKD
+These objects orbit around G5C: [V86]
+---------------------
+Name: V86
+Orbits: G5C
+These objects orbit around V86: [QHC]
+---------------------
+Name: 147
+Orbits: 2ZV
+These objects orbit around 147: [WLR]
+---------------------
+Name: WLR
+Orbits: 147
+These objects orbit around WLR: [XDL]
+---------------------
+Name: TJM
+Orbits: J4Z
+These objects orbit around TJM: [FM7]
+---------------------
+Name: FM7
+Orbits: TJM
+These objects orbit around FM7: [YMP]
+---------------------
+Name: DN4
+Orbits: KDY
+These objects orbit around DN4: [QV6]
+---------------------
+Name: QV6
+Orbits: DN4
+These objects orbit around QV6: [L6G]
+---------------------
+Name: V76
+Orbits: 2KL
+These objects orbit around V76: [8HY, TQ4]
+---------------------
+Name: 8HY
+Orbits: V76
+These objects orbit around 8HY: [3XJ]
+---------------------
+Name: QCX
+Orbits: 4JM
+These objects orbit around QCX: [R5D]
+---------------------
+Name: R5D
+Orbits: QCX
+These objects orbit around R5D: [K6B]
+---------------------
+Name: LNK
+Orbits: 6SL
+These objects orbit around LNK: [9ZP]
+---------------------
+Name: 9ZP
+Orbits: LNK
+These objects orbit around 9ZP: [4BV]
+---------------------
+Name: TF7
+Orbits: 8XT
+These objects orbit around TF7: [JL3]
+---------------------
+Name: JL3
+Orbits: TF7
+These objects orbit around JL3: [FR8]
+---------------------
+Name: 9ZX
+Orbits: 6DW
+These objects orbit around 9ZX: [DV2]
+---------------------
+Name: DV2
+Orbits: 9ZX
+These objects orbit around DV2: [H8R]
+---------------------
+Name: G5V
+Orbits: 7QK
+These objects orbit around G5V: [FYY]
+---------------------
+Name: LJC
+Orbits: 73F
+These objects orbit around LJC: [B88]
+---------------------
+Name: B88
+Orbits: LJC
+These objects orbit around B88: [Y3T]
+---------------------
+Name: 6DW
+Orbits: 62F
+These objects orbit around 6DW: [2TB, 9ZX]
+---------------------
+Name: 2TB
+Orbits: 6DW
+These objects orbit around 2TB: [9YC]
+---------------------
+Name: LMT
+Orbits: MJQ
+These objects orbit around LMT: [THC, P9W]
+---------------------
+Name: THC
+Orbits: LMT
+These objects orbit around THC: [WHW]
+---------------------
+Name: M61
+Orbits: 9WQ
+These objects orbit around M61: [R2B]
+---------------------
+Name: R2B
+Orbits: M61
+These objects orbit around R2B: []
+---------------------
+Name: 8JL
+Orbits: 2SY
+These objects orbit around 8JL: [QW1]
+---------------------
+Name: QW1
+Orbits: 8JL
+These objects orbit around QW1: [Q6V, VV4]
+---------------------
+Name: 5VP
+Orbits: B7Y
+These objects orbit around 5VP: [6CP]
+---------------------
+Name: TLL
+Orbits: LHZ
+These objects orbit around TLL: [RXL]
+---------------------
+Name: 422
+Orbits: NXD
+These objects orbit around 422: [2FG]
+---------------------
+Name: 2FG
+Orbits: 422
+These objects orbit around 2FG: [H47]
+---------------------
+Name: 9KG
+Orbits: FVW
+These objects orbit around 9KG: [ZLD]
+---------------------
+Name: ZLD
+Orbits: 9KG
+These objects orbit around ZLD: [CXQ]
+---------------------
+Name: 9ML
+Orbits: 576
+These objects orbit around 9ML: [1WW]
+---------------------
+Name: 1WW
+Orbits: 9ML
+These objects orbit around 1WW: [SBV]
+---------------------
+Name: N38
+Orbits: Z38
+These objects orbit around N38: [PCP, WV5]
+---------------------
+Name: PCP
+Orbits: N38
+These objects orbit around PCP: [XZ5, TL3]
+---------------------
+Name: PZ3
+Orbits: M37
+These objects orbit around PZ3: [8K1]
+---------------------
+Name: 8K1
+Orbits: PZ3
+These objects orbit around 8K1: [CR5, RSW]
+---------------------
+Name: VV4
+Orbits: QW1
+These objects orbit around VV4: [G6V]
+---------------------
+Name: G6V
+Orbits: VV4
+These objects orbit around G6V: [W16]
+---------------------
+Name: NWW
+Orbits: DJ5
+These objects orbit around NWW: [7MM]
+---------------------
+Name: 7MM
+Orbits: NWW
+These objects orbit around 7MM: [T2C]
+---------------------
+Name: HSV
+Orbits: F97
+These objects orbit around HSV: [JBZ]
+---------------------
+Name: JBZ
+Orbits: HSV
+These objects orbit around JBZ: [8KB]
+---------------------
+Name: XBM
+Orbits: 9FS
+These objects orbit around XBM: [XXQ]
+---------------------
+Name: XXQ
+Orbits: XBM
+These objects orbit around XXQ: [FG2]
+---------------------
+Name: PND
+Orbits: XSR
+These objects orbit around PND: [CPP]
+---------------------
+Name: 17P
+Orbits: LVD
+These objects orbit around 17P: [9C7]
+---------------------
+Name: VNM
+Orbits: 9HP
+These objects orbit around VNM: [KJZ]
+---------------------
+Name: KJZ
+Orbits: VNM
+These objects orbit around KJZ: [WWP]
+---------------------
+Name: K2Z
+Orbits: ZVQ
+These objects orbit around K2Z: [3Q3]
+---------------------
+Name: 3Q3
+Orbits: K2Z
+These objects orbit around 3Q3: [QZF]
+---------------------
+Name: ZZQ
+Orbits: K7D
+These objects orbit around ZZQ: [86H, TZV]
+---------------------
+Name: 86H
+Orbits: ZZQ
+These objects orbit around 86H: [HL6]
+---------------------
+Name: SQS
+Orbits: L26
+These objects orbit around SQS: [3FD]
+---------------------
+Name: 3FD
+Orbits: SQS
+These objects orbit around 3FD: [YX6]
+---------------------
+Name: 428
+Orbits: HTQ
+These objects orbit around 428: [85T]
+---------------------
+Name: 85T
+Orbits: 428
+These objects orbit around 85T: []
+---------------------
+Name: G54
+Orbits: C3Y
+These objects orbit around G54: [B62]
+---------------------
+Name: B62
+Orbits: G54
+These objects orbit around B62: [1LD]
+---------------------
+Name: 899
+Orbits: V33
+These objects orbit around 899: [S4M]
+---------------------
+Name: TRV
+Orbits: RL1
+These objects orbit around TRV: [JKT]
+---------------------
+Name: JKT
+Orbits: TRV
+These objects orbit around JKT: [WXR]
+---------------------
+Name: BDG
+Orbits: 4XP
+These objects orbit around BDG: [HJQ]
+---------------------
+Name: HJQ
+Orbits: BDG
+These objects orbit around HJQ: [G34]
+---------------------
+Name: DGX
+Orbits: HG6
+These objects orbit around DGX: [Q76]
+---------------------
+Name: 1MB
+Orbits: 94M
+These objects orbit around 1MB: [6NY]
+---------------------
+Name: 6NY
+Orbits: 1MB
+These objects orbit around 6NY: [P6P]
+---------------------
+Name: P6P
+Orbits: 6NY
+These objects orbit around P6P: [XNT]
+---------------------
+Name: VQQ
+Orbits: SWM
+These objects orbit around VQQ: [2ZJ]
+---------------------
+Name: 2ZJ
+Orbits: VQQ
+These objects orbit around 2ZJ: [LQB]
+---------------------
+Name: 5G5
+Orbits: NL2
+These objects orbit around 5G5: [ZYJ]
+---------------------
+Name: ZYJ
+Orbits: 5G5
+These objects orbit around ZYJ: []
+---------------------
+Name: JP6
+Orbits: BTR
+These objects orbit around JP6: [QV7, XCT]
+---------------------
+Name: QV7
+Orbits: JP6
+These objects orbit around QV7: [NT2]
+---------------------
+Name: ZZN
+Orbits: 8BC
+These objects orbit around ZZN: [85G]
+---------------------
+Name: 85G
+Orbits: ZZN
+These objects orbit around 85G: [HPV]
+---------------------
+Name: VRC
+Orbits: SQV
+These objects orbit around VRC: [TFL]
+---------------------
+Name: TFL
+Orbits: VRC
+These objects orbit around TFL: [PWY]
+---------------------
+Name: K7D
+Orbits: 5SJ
+These objects orbit around K7D: [ZZQ, M1F]
+---------------------
+Name: VSG
+Orbits: QHQ
+These objects orbit around VSG: [MJX]
+---------------------
+Name: MJX
+Orbits: VSG
+These objects orbit around MJX: [QZV]
+---------------------
+Name: 1TL
+Orbits: WFX
+These objects orbit around 1TL: [CYK]
+---------------------
+Name: CYK
+Orbits: 1TL
+These objects orbit around CYK: [T3R]
+---------------------
+Name: 8HM
+Orbits: 9MG
+These objects orbit around 8HM: [CWD]
+---------------------
+Name: CWD
+Orbits: 8HM
+These objects orbit around CWD: [5TM]
+---------------------
+Name: SQV
+Orbits: LYT
+These objects orbit around SQV: [VRC]
+---------------------
+Name: SYX
+Orbits: 2RW
+These objects orbit around SYX: [K5H]
+---------------------
+Name: K5H
+Orbits: SYX
+These objects orbit around K5H: [J2T]
+---------------------
+Name: CMQ
+Orbits: RSV
+These objects orbit around CMQ: [DLW]
+---------------------
+Name: TLH
+Orbits: MMC
+These objects orbit around TLH: [KCF]
+---------------------
+Name: KCF
+Orbits: TLH
+These objects orbit around KCF: [4J8]
+---------------------
+Name: THL
+Orbits: LJK
+These objects orbit around THL: [37P]
+---------------------
+Name: 37P
+Orbits: THL
+These objects orbit around 37P: []
+---------------------
+Name: WYW
+Orbits: 3PN
+These objects orbit around WYW: [4NQ, BR6]
+---------------------
+Name: 4NQ
+Orbits: WYW
+These objects orbit around 4NQ: [G7G]
+---------------------
+Name: 8ML
+Orbits: H3J
+These objects orbit around 8ML: [F2P]
+---------------------
+Name: F2P
+Orbits: 8ML
+These objects orbit around F2P: [C4Z]
+---------------------
+Name: ZR1
+Orbits: GB9
+These objects orbit around ZR1: [SAN]
+---------------------
+Name: SAN
+Orbits: ZR1
+These objects orbit around SAN: []
+---------------------
+Name: 4VB
+Orbits: L4R
+These objects orbit around 4VB: [52R]
+---------------------
+Name: 52R
+Orbits: 4VB
+These objects orbit around 52R: [DTL]
+---------------------
+Name: F5T
+Orbits: BPR
+These objects orbit around F5T: [LSK]
+---------------------
+Name: 426
+Orbits: N1M
+These objects orbit around 426: [FBB]
+---------------------
+Name: FBB
+Orbits: 426
+These objects orbit around FBB: [6VC]
+---------------------
+Name: 4B8
+Orbits: LTG
+These objects orbit around 4B8: [DKL]
+---------------------
+Name: DKL
+Orbits: 4B8
+These objects orbit around DKL: [LS3, XFB]
+---------------------
+Name: LYP
+Orbits: R3S
+These objects orbit around LYP: [Q5B]
+---------------------
+Name: Q5B
+Orbits: LYP
+These objects orbit around Q5B: [CGQ, LV9]
+---------------------
+Name: HB2
+Orbits: ZJQ
+These objects orbit around HB2: [VC7]
+---------------------
+Name: VC7
+Orbits: HB2
+These objects orbit around VC7: [M8V]
+---------------------
+Name: 93T
+Orbits: KK7
+These objects orbit around 93T: [3PY]
+---------------------
+Name: 3PY
+Orbits: 93T
+These objects orbit around 3PY: [JHL]
+---------------------
+Name: B7D
+Orbits: 3HJ
+These objects orbit around B7D: [RB6, 9KH]
+---------------------
+Name: 6DH
+Orbits: N5R
+These objects orbit around 6DH: [7NY]
+---------------------
+Name: 7NY
+Orbits: 6DH
+These objects orbit around 7NY: [JGX]
+---------------------
+Name: 8RZ
+Orbits: 2BG
+These objects orbit around 8RZ: [LVW]
+---------------------
+Name: LVW
+Orbits: 8RZ
+These objects orbit around LVW: [JKV]
+---------------------
+Name: JL4
+Orbits: PKD
+These objects orbit around JL4: [98M]
+---------------------
+Name: 98M
+Orbits: JL4
+These objects orbit around 98M: [FNX]
+---------------------
+Name: HVH
+Orbits: 4DD
+These objects orbit around HVH: [1M1]
+---------------------
+Name: M93
+Orbits: 3NN
+These objects orbit around M93: [SCH]
+---------------------
+Name: SCH
+Orbits: M93
+These objects orbit around SCH: [GHP]
+---------------------
+Name: DRS
+Orbits: TLB
+These objects orbit around DRS: [3R1]
+---------------------
+Name: 3R1
+Orbits: DRS
+These objects orbit around 3R1: [L9H]
+---------------------
+Name: BTN
+Orbits: CR5
+These objects orbit around BTN: [689, ZVQ]
+---------------------
+Name: 689
+Orbits: BTN
+These objects orbit around 689: [9GR]
+---------------------
+Name: RB6
+Orbits: B7D
+These objects orbit around RB6: [2ZV]
+---------------------
+Name: 3SF
+Orbits: VX5
+These objects orbit around 3SF: [3LQ]
+---------------------
+Name: 9KH
+Orbits: B7D
+These objects orbit around 9KH: [L26, GY8]
+---------------------
+Name: L26
+Orbits: 9KH
+These objects orbit around L26: [SQS]
+---------------------
+Name: BMT
+Orbits: HLH
+These objects orbit around BMT: [NHG]
+---------------------
+Name: NHG
+Orbits: BMT
+These objects orbit around NHG: []
+---------------------
+Name: HQW
+Orbits: LG6
+These objects orbit around HQW: [4Z7]
+---------------------
+Name: 4Z7
+Orbits: HQW
+These objects orbit around 4Z7: [1FY]
+---------------------
+Name: W5J
+Orbits: W16
+These objects orbit around W5J: [YTT]
+---------------------
+Name: YTT
+Orbits: W5J
+These objects orbit around YTT: [WXZ]
+---------------------
+Name: DVT
+Orbits: ZR3
+These objects orbit around DVT: [LHZ]
+---------------------
+Name: V6W
+Orbits: L1Y
+These objects orbit around V6W: [S5W]
+---------------------
+Name: S5W
+Orbits: V6W
+These objects orbit around S5W: [95P]
+---------------------
+Name: MY4
+Orbits: NRN
+These objects orbit around MY4: [RW8]
+---------------------
+Name: FN5
+Orbits: RKJ
+These objects orbit around FN5: [HP6]
+---------------------
+Name: HP6
+Orbits: FN5
+These objects orbit around HP6: [3XL]
+---------------------
+Name: THY
+Orbits: 8LG
+These objects orbit around THY: [LL4]
+---------------------
+Name: LL4
+Orbits: THY
+These objects orbit around LL4: [5V9, B4N]
+---------------------
+Name: 9SQ
+Orbits: K5D
+These objects orbit around 9SQ: [425]
+---------------------
+Name: 425
+Orbits: 9SQ
+These objects orbit around 425: [MB5]
+---------------------
+Name: 6BJ
+Orbits: DBV
+These objects orbit around 6BJ: [JDM]
+---------------------
+Name: JDM
+Orbits: 6BJ
+These objects orbit around JDM: [QBT]
+---------------------
+Name: 2TY
+Orbits: N3W
+These objects orbit around 2TY: [LX4]
+---------------------
+Name: LX4
+Orbits: 2TY
+These objects orbit around LX4: []
+---------------------
+Name: BKD
+Orbits: 9PZ
+These objects orbit around BKD: [9BC, WC1]
+---------------------
+Name: 9BC
+Orbits: BKD
+These objects orbit around 9BC: [BTR]
+---------------------
+Name: 1R9
+Orbits: XVH
+These objects orbit around 1R9: [P1V]
+---------------------
+Name: P1V
+Orbits: 1R9
+These objects orbit around P1V: [GMK]
+---------------------
+Name: CR5
+Orbits: 8K1
+These objects orbit around CR5: [BTN]
+---------------------
+Name: 68H
+Orbits: 393
+These objects orbit around 68H: [72R]
+---------------------
+Name: 72R
+Orbits: 68H
+These objects orbit around 72R: [26Q]
+---------------------
+Name: 7H1
+Orbits: 314
+These objects orbit around 7H1: [NWD]
+---------------------
+Name: NWD
+Orbits: 7H1
+These objects orbit around NWD: [5CP]
+---------------------
+Name: WQZ
+Orbits: B9X
+These objects orbit around WQZ: [MC2]
+---------------------
+Name: MC2
+Orbits: WQZ
+These objects orbit around MC2: []
+---------------------
+Name: 1Z2
+Orbits: T4W
+These objects orbit around 1Z2: [15R]
+---------------------
+Name: SPB
+Orbits: 8MR
+These objects orbit around SPB: [X7P]
+---------------------
+Name: X7P
+Orbits: SPB
+These objects orbit around X7P: [GKT]
+---------------------
+Name: B4V
+Orbits: S4M
+These objects orbit around B4V: [2R4]
+---------------------
+Name: 2R4
+Orbits: B4V
+These objects orbit around 2R4: [YHG]
+---------------------
+Name: QG2
+Orbits: 45N
+These objects orbit around QG2: [DZ9]
+---------------------
+Name: DZ9
+Orbits: QG2
+These objects orbit around DZ9: [YLM]
+---------------------
+Name: WC1
+Orbits: BKD
+These objects orbit around WC1: [SYL, LKB]
+---------------------
+Name: V36
+Orbits: CG7
+These objects orbit around V36: [VLY]
+---------------------
+Name: VLY
+Orbits: V36
+These objects orbit around VLY: [R6F]
+---------------------
+Name: W9B
+Orbits: V3G
+These objects orbit around W9B: [TMQ]
+---------------------
+Name: TMQ
+Orbits: W9B
+These objects orbit around TMQ: [NFW]
+---------------------
+Name: ZG6
+Orbits: MJC
+These objects orbit around ZG6: [BJL]
+---------------------
+Name: BJL
+Orbits: ZG6
+These objects orbit around BJL: [Z59]
+---------------------
+Name: XS3
+Orbits: B7M
+These objects orbit around XS3: [FB9]
+---------------------
+Name: FB9
+Orbits: XS3
+These objects orbit around FB9: [1KM]
+---------------------
+Name: CQJ
+Orbits: 7B6
+These objects orbit around CQJ: [55J]
+---------------------
+Name: KD4
+Orbits: BM3
+These objects orbit around KD4: [HXB]
+---------------------
+Name: HXB
+Orbits: KD4
+These objects orbit around HXB: [9GL]
+---------------------
+Name: DBM
+Orbits: QMV
+These objects orbit around DBM: [1K5]
+---------------------
+Name: 1K5
+Orbits: DBM
+These objects orbit around 1K5: []
+---------------------
+Name: 82F
+Orbits: 75Z
+These objects orbit around 82F: [18S]
+---------------------
+Name: 18S
+Orbits: 82F
+These objects orbit around 18S: [V33]
+---------------------
+Name: M74
+Orbits: 2D1
+These objects orbit around M74: [NJB]
+---------------------
+Name: NJB
+Orbits: M74
+These objects orbit around NJB: [8MR]
+---------------------
+Name: G34
+Orbits: HJQ
+These objects orbit around G34: []
+---------------------
+Name: KVK
+Orbits: LXH
+These objects orbit around KVK: [YYZ]
+---------------------
+Name: YYZ
+Orbits: KVK
+These objects orbit around YYZ: [GY4]
+---------------------
+Name: L44
+Orbits: 168
+These objects orbit around L44: [KDB]
+---------------------
+Name: KDB
+Orbits: L44
+These objects orbit around KDB: []
+---------------------
+Name: KNM
+Orbits: 323
+These objects orbit around KNM: [DD8]
+---------------------
+Name: DD8
+Orbits: KNM
+These objects orbit around DD8: [T96]
+---------------------
+Name: XC9
+Orbits: TVM
+These objects orbit around XC9: [NGM]
+---------------------
+Name: 9SB
+Orbits: WWP
+These objects orbit around 9SB: [CRN, NL9]
+---------------------
+Name: CRN
+Orbits: 9SB
+These objects orbit around CRN: [NBN]
+---------------------
+Name: 5VN
+Orbits: TR7
+These objects orbit around 5VN: [ZQ3]
+---------------------
+Name: HYP
+Orbits: 43F
+These objects orbit around HYP: [K6C]
+---------------------
+Name: K6C
+Orbits: HYP
+These objects orbit around K6C: [9M1]
+---------------------
+Name: 8BC
+Orbits: HBH
+These objects orbit around 8BC: [ZZN]
+---------------------
+Name: SYL
+Orbits: WC1
+These objects orbit around SYL: [P6X]
+---------------------
+Name: P14
+Orbits: CHJ
+These objects orbit around P14: [7LJ]
+---------------------
+Name: 7LJ
+Orbits: P14
+These objects orbit around 7LJ: [DD7]
+---------------------
+Name: 1MP
+Orbits: DLS
+These objects orbit around 1MP: [11X]
+---------------------
+Name: 11X
+Orbits: 1MP
+These objects orbit around 11X: [JF6]
+---------------------
+Name: P6X
+Orbits: SYL
+These objects orbit around P6X: [HYF]
+---------------------
+Name: ZQ3
+Orbits: 5VN
+These objects orbit around ZQ3: [GD3]
+---------------------
+Name: GD3
+Orbits: ZQ3
+These objects orbit around GD3: [F78]
+---------------------
+Name: R6F
+Orbits: VLY
+These objects orbit around R6F: [4WY]
+---------------------
+Name: 4WY
+Orbits: R6F
+These objects orbit around 4WY: [MQJ]
+---------------------
+Name: TRD
+Orbits: QQV
+These objects orbit around TRD: [2SY]
+---------------------
+Name: 2SY
+Orbits: TRD
+These objects orbit around 2SY: [8JL]
+---------------------
+Name: C4Z
+Orbits: F2P
+These objects orbit around C4Z: [YBN]
+---------------------
+Name: DSW
+Orbits: CBX
+These objects orbit around DSW: [VPL]
+---------------------
+Name: VPL
+Orbits: DSW
+These objects orbit around VPL: [JF5]
+---------------------
+Name: KWN
+Orbits: LSK
+These objects orbit around KWN: [8LG]
+---------------------
+Name: 8LG
+Orbits: KWN
+These objects orbit around 8LG: [THY]
+---------------------
+Name: 45F
+Orbits: NWS
+These objects orbit around 45F: [ZCL]
+---------------------
+Name: ZCL
+Orbits: 45F
+These objects orbit around ZCL: []
+---------------------
+Name: MR5
+Orbits: PQ6
+These objects orbit around MR5: [LQT]
+---------------------
+Name: LQT
+Orbits: MR5
+These objects orbit around LQT: [Z2X]
+---------------------
+Name: DL1
+Orbits: Z4B
+These objects orbit around DL1: [DS4]
+---------------------
+Name: DS4
+Orbits: DL1
+These objects orbit around DS4: [FDH]
+---------------------
+Name: WWP
+Orbits: KJZ
+These objects orbit around WWP: [9SB]
+---------------------
+Name: 4SN
+Orbits: B84
+These objects orbit around 4SN: [263]
+---------------------
+Name: 263
+Orbits: 4SN
+These objects orbit around 263: [G3L]
+---------------------
+Name: TT2
+Orbits: MZ1
+These objects orbit around TT2: [9W2]
+---------------------
+Name: 9W2
+Orbits: TT2
+These objects orbit around 9W2: [CCV]
+---------------------
+Name: CVW
+Orbits: T99
+These objects orbit around CVW: [SLM]
+---------------------
+Name: SLM
+Orbits: CVW
+These objects orbit around SLM: [2VQ]
+---------------------
+Name: Y6Q
+Orbits: JPH
+These objects orbit around Y6Q: [FXS]
+---------------------
+Name: FXS
+Orbits: Y6Q
+These objects orbit around FXS: [2FM]
+---------------------
+Name: FN7
+Orbits: G73
+These objects orbit around FN7: [43F]
+---------------------
+Name: 43F
+Orbits: FN7
+These objects orbit around 43F: [HYP]
+---------------------
+Name: MZ5
+Orbits: 163
+These objects orbit around MZ5: [PX5]
+---------------------
+Name: PX5
+Orbits: MZ5
+These objects orbit around PX5: [TX2]
+---------------------
+Name: KTV
+Orbits: JJQ
+These objects orbit around KTV: [KLD]
+---------------------
+Name: KLD
+Orbits: KTV
+These objects orbit around KLD: []
+---------------------
+Name: 1N9
+Orbits: MH9
+These objects orbit around 1N9: [M1R]
+---------------------
+Name: M1R
+Orbits: 1N9
+These objects orbit around M1R: [6KL, FSN]
+---------------------
+Name: GHS
+Orbits: BHG
+These objects orbit around GHS: [F73]
+---------------------
+Name: F73
+Orbits: GHS
+These objects orbit around F73: [VHQ]
+---------------------
+Name: 6CJ
+Orbits: 2LQ
+These objects orbit around 6CJ: [RTN]
+---------------------
+Name: RTN
+Orbits: 6CJ
+These objects orbit around RTN: [PPQ]
+---------------------
+Name: S9B
+Orbits: D72
+These objects orbit around S9B: [6SL, CTV]
+---------------------
+Name: 6SL
+Orbits: S9B
+These objects orbit around 6SL: [BRX, LNK]
+---------------------
+Name: WBB
+Orbits: C7N
+These objects orbit around WBB: [74X]
+---------------------
+Name: QKX
+Orbits: 6BQ
+These objects orbit around QKX: [CHT, 7CG]
+---------------------
+Name: CHT
+Orbits: QKX
+These objects orbit around CHT: [BF8]
+---------------------
+Name: FP4
+Orbits: PHD
+These objects orbit around FP4: [K1M]
+---------------------
+Name: K1M
+Orbits: FP4
+These objects orbit around K1M: [6SJ]
+---------------------
+Name: XZY
+Orbits: 31F
+These objects orbit around XZY: [124]
+---------------------
+Name: 124
+Orbits: XZY
+These objects orbit around 124: [QLQ]
+---------------------
+Name: JXH
+Orbits: R7C
+These objects orbit around JXH: [G7M]
+---------------------
+Name: 8TX
+Orbits: 6TY
+These objects orbit around 8TX: [B17]
+---------------------
+Name: B17
+Orbits: 8TX
+These objects orbit around B17: [WSL]
+---------------------
+Name: 7HP
+Orbits: 446
+These objects orbit around 7HP: [F3R, ZMZ]
+---------------------
+Name: F3R
+Orbits: 7HP
+These objects orbit around F3R: [DSR]
+---------------------
+Name: KW2
+Orbits: HYF
+These objects orbit around KW2: [6R9]
+---------------------
+Name: 6R9
+Orbits: KW2
+These objects orbit around 6R9: []
+---------------------
+Name: P25
+Orbits: 6J4
+These objects orbit around P25: [WNH]
+---------------------
+Name: 9RW
+Orbits: TL3
+These objects orbit around 9RW: [GH7]
+---------------------
+Name: GH7
+Orbits: 9RW
+These objects orbit around GH7: [J1W]
+---------------------
+Name: K2S
+Orbits: NRW
+These objects orbit around K2S: [8VG]
+---------------------
+Name: BBR
+Orbits: 5DH
+These objects orbit around BBR: [KM9]
+---------------------
+Name: 5SJ
+Orbits: 7BD
+These objects orbit around 5SJ: [K7D]
+---------------------
+Name: WTQ
+Orbits: 8GF
+These objects orbit around WTQ: [NNQ]
+---------------------
+Name: NNQ
+Orbits: WTQ
+These objects orbit around NNQ: [PMN]
+---------------------
+Name: L5S
+Orbits: TNB
+These objects orbit around L5S: [KQG]
+---------------------
+Name: KQG
+Orbits: L5S
+These objects orbit around KQG: [VGD]
+---------------------
+Name: GGW
+Orbits: 2KK
+These objects orbit around GGW: [GVM]
+---------------------
+Name: GVM
+Orbits: GGW
+These objects orbit around GVM: [YWL]
+---------------------
+Name: 94M
+Orbits: Z9J
+These objects orbit around 94M: [1MB]
+---------------------
+Name: F2C
+Orbits: YFZ
+These objects orbit around F2C: [QWY]
+---------------------
+Name: QWY
+Orbits: F2C
+These objects orbit around QWY: [7RN]
+---------------------
+Name: 97N
+Orbits: VVD
+These objects orbit around 97N: [ZCS]
+---------------------
+Name: ZCS
+Orbits: 97N
+These objects orbit around ZCS: [B6N]
+---------------------
+Name: 3VX
+Orbits: 2JH
+These objects orbit around 3VX: [Y8H]
+---------------------
+Name: 51L
+Orbits: GD7
+These objects orbit around 51L: [8LP, 5D4]
+---------------------
+Name: 8LP
+Orbits: 51L
+These objects orbit around 8LP: [NY1]
+---------------------
+Name: WXZ
+Orbits: YTT
+These objects orbit around WXZ: [YZ1]
+---------------------
+Name: YZ1
+Orbits: WXZ
+These objects orbit around YZ1: [8J1]
+---------------------
+Name: 8GW
+Orbits: QTB
+These objects orbit around 8GW: [SXR]
+---------------------
+Name: SXR
+Orbits: 8GW
+These objects orbit around SXR: [5YG]
+---------------------
+Name: PNR
+Orbits: X47
+These objects orbit around PNR: [6J4]
+---------------------
+Name: W16
+Orbits: G6V
+These objects orbit around W16: [W5J]
+---------------------
+Name: XNT
+Orbits: P6P
+These objects orbit around XNT: [BDH]
+---------------------
+Name: BDH
+Orbits: XNT
+These objects orbit around BDH: [HPK]
+---------------------
+Name: 7QG
+Orbits: S2W
+These objects orbit around 7QG: [4PZ]
+---------------------
+Name: 4PZ
+Orbits: 7QG
+These objects orbit around 4PZ: [R4B]
+---------------------
+Name: QX4
+Orbits: BGP
+These objects orbit around QX4: [75Z]
+---------------------
+Name: 75Z
+Orbits: QX4
+These objects orbit around 75Z: [82F]
+---------------------
+Name: 5M5
+Orbits: 3XJ
+These objects orbit around 5M5: [CFS]
+---------------------
+Name: CFS
+Orbits: 5M5
+These objects orbit around CFS: [119]
+---------------------
+Name: BHN
+Orbits: HPK
+These objects orbit around BHN: [HCS]
+---------------------
+Name: HCS
+Orbits: BHN
+These objects orbit around HCS: [3WZ]
+---------------------
+Name: NCD
+Orbits: 2M1
+These objects orbit around NCD: [X5S, 6V5]
+---------------------
+Name: C45
+Orbits: FHN
+These objects orbit around C45: [Y7Y]
+---------------------
+Name: Y7Y
+Orbits: C45
+These objects orbit around Y7Y: []
+---------------------
+Name: LJK
+Orbits: DLW
+These objects orbit around LJK: [THL]
+---------------------
+Name: ZZZ
+Orbits: GP7
+These objects orbit around ZZZ: [JMQ]
+---------------------
+Name: JMQ
+Orbits: ZZZ
+These objects orbit around JMQ: [LG6]
+---------------------
+Name: DLM
+Orbits: XV1
+These objects orbit around DLM: [T2F]
+---------------------
+Name: T2F
+Orbits: DLM
+These objects orbit around T2F: [YPT]
+---------------------
+Name: 38X
+Orbits: D2Z
+These objects orbit around 38X: [N6X]
+---------------------
+Name: N6X
+Orbits: 38X
+These objects orbit around N6X: [LYT, CCN]
+---------------------
+Name: 8VC
+Orbits: 8C6
+These objects orbit around 8VC: [K6F]
+---------------------
+Name: K6F
+Orbits: 8VC
+These objects orbit around K6F: [YN9]
+---------------------
+Name: 5CP
+Orbits: NWD
+These objects orbit around 5CP: [V59]
+---------------------
+Name: V59
+Orbits: 5CP
+These objects orbit around V59: [K76]
+---------------------
+Name: 3NN
+Orbits: RXL
+These objects orbit around 3NN: [M93, 1VC]
+---------------------
+Name: LQY
+Orbits: 7NB
+These objects orbit around LQY: [9MM]
+---------------------
+Name: QMB
+Orbits: WJK
+These objects orbit around QMB: [G9R, 1X2]
+---------------------
+Name: G9R
+Orbits: QMB
+These objects orbit around G9R: [7BD]
+---------------------
+Name: PMN
+Orbits: NNQ
+These objects orbit around PMN: [PJC, 8C6]
+---------------------
+Name: NZX
+Orbits: JSF
+These objects orbit around NZX: [9H8]
+---------------------
+Name: 9H8
+Orbits: NZX
+These objects orbit around 9H8: [8BD]
+---------------------
+Name: TCQ
+Orbits: XDL
+These objects orbit around TCQ: [2BF]
+---------------------
+Name: 2BF
+Orbits: TCQ
+These objects orbit around 2BF: [23M]
+---------------------
+Name: 1DD
+Orbits: B6N
+These objects orbit around 1DD: [SJ3]
+---------------------
+Name: SJ3
+Orbits: 1DD
+These objects orbit around SJ3: [4D2]
+---------------------
+Name: YN9
+Orbits: K6F
+These objects orbit around YN9: [FGR]
+---------------------
+Name: MPW
+Orbits: ZV2
+These objects orbit around MPW: [X4Y]
+---------------------
+Name: GN4
+Orbits: VHQ
+These objects orbit around GN4: [KJK]
+---------------------
+Name: 5K8
+Orbits: P7Q
+These objects orbit around 5K8: [BM6]
+---------------------
+Name: Y28
+Orbits: YYS
+These objects orbit around Y28: [FK6]
+---------------------
+Name: NPR
+Orbits: 8SM
+These objects orbit around NPR: [DKD, 6BQ]
+---------------------
+Name: DKD
+Orbits: NPR
+These objects orbit around DKD: [G5C]
+---------------------
+Name: 57N
+Orbits: M2P
+These objects orbit around 57N: [M5N]
+---------------------
+Name: M5N
+Orbits: 57N
+These objects orbit around M5N: [Y5J]
+---------------------
+Name: 15L
+Orbits: HRB
+These objects orbit around 15L: [FHN]
+---------------------
+Name: FHN
+Orbits: 15L
+These objects orbit around FHN: [C45]
+---------------------
+Name: 8DV
+Orbits: PWY
+These objects orbit around 8DV: [N56]
+---------------------
+Name: BZY
+Orbits: 3PP
+These objects orbit around BZY: [378]
+---------------------
+Name: 5LC
+Orbits: XBW
+These objects orbit around 5LC: [4W7]
+---------------------
+Name: 4W7
+Orbits: 5LC
+These objects orbit around 4W7: [39N]
+---------------------
+Name: 9M1
+Orbits: K6C
+These objects orbit around 9M1: [45N]
+---------------------
+Name: CPT
+Orbits: Z8K
+These objects orbit around CPT: [6YS]
+---------------------
+Name: 6YS
+Orbits: CPT
+These objects orbit around 6YS: [NFX]
+---------------------
+Name: LQ9
+Orbits: D1G
+These objects orbit around LQ9: [NYC, 9BR]
+---------------------
+Name: NYC
+Orbits: LQ9
+These objects orbit around NYC: [29L]
+---------------------
+Name: G7M
+Orbits: JXH
+These objects orbit around G7M: [MPK]
+---------------------
+Name: NWS
+Orbits: LN9
+These objects orbit around NWS: [45F]
+---------------------
+Name: Q9N
+Orbits: SMG
+These objects orbit around Q9N: [PHD]
+---------------------
+Name: PHD
+Orbits: Q9N
+These objects orbit around PHD: [FP4]
+---------------------
+Name: QH2
+Orbits: HG7
+These objects orbit around QH2: [GJM]
+---------------------
+Name: GJM
+Orbits: QH2
+These objects orbit around GJM: [MS2]
+---------------------
+Name: K93
+Orbits: LM1
+These objects orbit around K93: [SDT]
+---------------------
+Name: SDT
+Orbits: K93
+These objects orbit around SDT: [CTG]
+---------------------
+Name: YX6
+Orbits: 3FD
+These objects orbit around YX6: [7KF]
+---------------------
+Name: 8BD
+Orbits: 9H8
+These objects orbit around 8BD: [SH6]
+---------------------
+Name: SH6
+Orbits: 8BD
+These objects orbit around SH6: [S2W]
+---------------------
+Name: X47
+Orbits: QBG
+These objects orbit around X47: [PNR]
+---------------------
+Name: 5D4
+Orbits: 51L
+These objects orbit around 5D4: [JPK]
+---------------------
+Name: JPK
+Orbits: 5D4
+These objects orbit around JPK: [H3J]
+---------------------
+Name: HL6
+Orbits: 86H
+These objects orbit around HL6: [S9F]
+---------------------
+Name: K3S
+Orbits: NL9
+These objects orbit around K3S: [YBL]
+---------------------
+Name: YBL
+Orbits: K3S
+These objects orbit around YBL: [HSJ]
+---------------------
+Name: XCT
+Orbits: JP6
+These objects orbit around XCT: [D1G]
+---------------------
+Name: ZQ7
+Orbits: W8Q
+These objects orbit around ZQ7: [XT5, S2B]
+---------------------
+Name: XT5
+Orbits: ZQ7
+These objects orbit around XT5: [TGF]
+---------------------
+Name: C7L
+Orbits: YFZ
+These objects orbit around C7L: [26C]
+---------------------
+Name: 26C
+Orbits: C7L
+These objects orbit around 26C: [2NJ]
+---------------------
+Name: YQ4
+Orbits: QZQ
+These objects orbit around YQ4: [WVN]
+---------------------
+Name: WVN
+Orbits: YQ4
+These objects orbit around WVN: [2YR]
+---------------------
+Name: 73F
+Orbits: 446
+These objects orbit around 73F: [LJC]
+---------------------
+Name: HYF
+Orbits: P6X
+These objects orbit around HYF: [KW2]
+---------------------
+Name: N1M
+Orbits: 8J1
+These objects orbit around N1M: [426]
+---------------------
+Name: ZVQ
+Orbits: BTN
+These objects orbit around ZVQ: [K2Z]
+---------------------
+Name: T6T
+Orbits: W86
+These objects orbit around T6T: [JS2, 41C]
+---------------------
+Name: JS2
+Orbits: T6T
+These objects orbit around JS2: [DFL]
+---------------------
+Name: XXW
+Orbits: 4LC
+These objects orbit around XXW: [7NC]
+---------------------
+Name: 7NC
+Orbits: XXW
+These objects orbit around 7NC: [8SM]
+---------------------
+Name: 5DV
+Orbits: XGP
+These objects orbit around 5DV: [2RW, RVS]
+---------------------
+Name: 2RW
+Orbits: 5DV
+These objects orbit around 2RW: [SYX]
+---------------------
+Name: SXB
+Orbits: WVM
+These objects orbit around SXB: [28F]
+---------------------
+Name: 28F
+Orbits: SXB
+These objects orbit around 28F: [DV3]
+---------------------
+Name: NGM
+Orbits: XC9
+These objects orbit around NGM: [78Y]
+---------------------
+Name: JKV
+Orbits: LVW
+These objects orbit around JKV: [NQZ]
+---------------------
+Name: 7VP
+Orbits: 2R1
+These objects orbit around 7VP: [4CB]
+---------------------
+Name: 4CB
+Orbits: 7VP
+These objects orbit around 4CB: [BMD]
+---------------------
+Name: 1FL
+Orbits: PFT
+These objects orbit around 1FL: [YQP]
+---------------------
+Name: 1SP
+Orbits: VTV
+These objects orbit around 1SP: [HW1]
+---------------------
+Name: 8P1
+Orbits: 489
+These objects orbit around 8P1: [QJ6]
+---------------------
+Name: QRD
+Orbits: C75
+These objects orbit around QRD: [3V6]
+---------------------
+Name: 7XM
+Orbits: F3Q
+These objects orbit around 7XM: [5JJ]
+---------------------
+Name: 5JJ
+Orbits: 7XM
+These objects orbit around 5JJ: [CFM]
+---------------------
+Name: VM5
+Orbits: PM7
+These objects orbit around VM5: [86K]
+---------------------
+Name: 86K
+Orbits: VM5
+These objects orbit around 86K: [8LL]
+---------------------
+Name: DSR
+Orbits: F3R
+These objects orbit around DSR: [3JF]
+---------------------
+Name: JG7
+Orbits: DTN
+These objects orbit around JG7: [JKL]
+---------------------
+Name: JKL
+Orbits: JG7
+These objects orbit around JKL: []
+---------------------
+Name: JJQ
+Orbits: ZFJ
+These objects orbit around JJQ: [KTV]
+---------------------
+Name: CCD
+Orbits: WQ4
+These objects orbit around CCD: [2L8]
+---------------------
+Name: 2L8
+Orbits: CCD
+These objects orbit around 2L8: [MMC]
+---------------------
+Name: 55J
+Orbits: CQJ
+These objects orbit around 55J: [2GG]
+---------------------
+Name: 2GG
+Orbits: 55J
+These objects orbit around 2GG: [ZJQ]
+---------------------
+Name: LYT
+Orbits: N6X
+These objects orbit around LYT: [SQV]
+---------------------
+Name: PPQ
+Orbits: RTN
+These objects orbit around PPQ: [B84]
+---------------------
+Name: B84
+Orbits: PPQ
+These objects orbit around B84: [4SN]
+---------------------
+Name: P5G
+Orbits: NG5
+These objects orbit around P5G: [43R]
+---------------------
+Name: 2CL
+Orbits: DHM
+These objects orbit around 2CL: [TTP]
+---------------------
+Name: QWF
+Orbits: GKB
+These objects orbit around QWF: [2WD]
+---------------------
+Name: 2WD
+Orbits: QWF
+These objects orbit around 2WD: [6M5]
+---------------------
+Name: YYW
+Orbits: H5R
+These objects orbit around YYW: [3YT]
+---------------------
+Name: 3YT
+Orbits: YYW
+These objects orbit around 3YT: [2B1]
+---------------------
+Name: 9GL
+Orbits: HXB
+These objects orbit around 9GL: [VF8]
+---------------------
+Name: VRH
+Orbits: FSN
+These objects orbit around VRH: [1Q5]
+---------------------
+Name: 1Q5
+Orbits: VRH
+These objects orbit around 1Q5: []
+---------------------
+Name: 669
+Orbits: ZDX
+These objects orbit around 669: [5BH, MHX]
+---------------------
+Name: 5BH
+Orbits: 669
+These objects orbit around 5BH: [T9Q]
+---------------------
+Name: NWP
+Orbits: 378
+These objects orbit around NWP: [5V7]
+---------------------
+Name: 5V7
+Orbits: NWP
+These objects orbit around 5V7: [4SS]
+---------------------
+Name: KV7
+Orbits: L49
+These objects orbit around KV7: [5XF]
+---------------------
+Name: 5XF
+Orbits: KV7
+These objects orbit around 5XF: [SS7]
+---------------------
+Name: P9W
+Orbits: LMT
+These objects orbit around P9W: [254]
+---------------------
+Name: 254
+Orbits: P9W
+These objects orbit around 254: [HHD]
+---------------------
+Name: LKB
+Orbits: WC1
+These objects orbit around LKB: [CPL]
+---------------------
+Name: CPL
+Orbits: LKB
+These objects orbit around CPL: [MRW]
+---------------------
+Name: 7FB
+Orbits: K48
+These objects orbit around 7FB: [M2H]
+---------------------
+Name: M2H
+Orbits: 7FB
+These objects orbit around M2H: [VWD]
+---------------------
+Name: YH7
+Orbits: WPB
+These objects orbit around YH7: [NL2]
+---------------------
+Name: NL2
+Orbits: YH7
+These objects orbit around NL2: [5G5]
+---------------------
+Name: FBM
+Orbits: LRH
+These objects orbit around FBM: [KK7]
+---------------------
+Name: KK7
+Orbits: FBM
+These objects orbit around KK7: [93T]
+---------------------
+Name: PJ9
+Orbits: NFW
+These objects orbit around PJ9: [SR6]
+---------------------
+Name: SR6
+Orbits: PJ9
+These objects orbit around SR6: [1RV]
+---------------------
+Name: SB4
+Orbits: 5XK
+These objects orbit around SB4: [BM3]
+---------------------
+Name: BM3
+Orbits: SB4
+These objects orbit around BM3: [KD4]
+---------------------
+Name: LPR
+Orbits: GWC
+These objects orbit around LPR: [MH9]
+---------------------
+Name: MH9
+Orbits: LPR
+These objects orbit around MH9: [1N9]
+---------------------
+Name: 41C
+Orbits: T6T
+These objects orbit around 41C: [TLB]
+---------------------
+Name: TLB
+Orbits: 41C
+These objects orbit around TLB: [DRS]
+---------------------
+Name: PBG
+Orbits: WK2
+These objects orbit around PBG: [SMC]
+---------------------
+Name: SMC
+Orbits: PBG
+These objects orbit around SMC: [785]
+---------------------
+Name: 8N6
+Orbits: 6SJ
+These objects orbit around 8N6: [582]
+---------------------
+Name: 582
+Orbits: 8N6
+These objects orbit around 582: [KZQ]
+---------------------
+Name: TQ4
+Orbits: V76
+These objects orbit around TQ4: [D4C]
+---------------------
+Name: D4C
+Orbits: TQ4
+These objects orbit around D4C: []
+---------------------
+Name: 2NJ
+Orbits: 26C
+These objects orbit around 2NJ: [TZL]
+---------------------
+Name: TZL
+Orbits: 2NJ
+These objects orbit around TZL: [YZQ]
+---------------------
+Name: PKC
+Orbits: 9FS
+These objects orbit around PKC: [MYZ]
+---------------------
+Name: 427
+Orbits: CQW
+These objects orbit around 427: [YFZ]
+---------------------
+Name: YFZ
+Orbits: 427
+These objects orbit around YFZ: [F2C, C7L]
+---------------------
+Name: BGP
+Orbits: GMJ
+These objects orbit around BGP: [QX4]
+---------------------
+Name: 6BQ
+Orbits: NPR
+These objects orbit around 6BQ: [QKX]
+---------------------
+Name: VJH
+Orbits: 9C5
+These objects orbit around VJH: [GTX]
+---------------------
+Name: 8MR
+Orbits: NJB
+These objects orbit around 8MR: [SPB]
+---------------------
+Name: CTV
+Orbits: S9B
+These objects orbit around CTV: [KNG]
+---------------------
+Name: KNG
+Orbits: CTV
+These objects orbit around KNG: [MBB]
+---------------------
+Name: M2P
+Orbits: 79H
+These objects orbit around M2P: [N85, 57N]
+---------------------
+Name: N85
+Orbits: M2P
+These objects orbit around N85: [R2D]
+---------------------
+Name: BWJ
+Orbits: HMW
+These objects orbit around BWJ: [YBB]
+---------------------
+Name: YBB
+Orbits: BWJ
+These objects orbit around YBB: [4V3]
+---------------------
+Name: F97
+Orbits: V9J
+These objects orbit around F97: [HSV]
+---------------------
+Name: D1G
+Orbits: XCT
+These objects orbit around D1G: [LQ9]
+---------------------
+Name: HW1
+Orbits: 1SP
+These objects orbit around HW1: [KX1]
+---------------------
+Name: V7Y
+Orbits: DBH
+These objects orbit around V7Y: [8X4]
+---------------------
+Name: 8X4
+Orbits: V7Y
+These objects orbit around 8X4: [B12]
+---------------------
+Name: 378
+Orbits: BZY
+These objects orbit around 378: [NWP]
+---------------------
+Name: R42
+Orbits: J1W
+These objects orbit around R42: [9B8]
+---------------------
+Name: 9B8
+Orbits: R42
+These objects orbit around 9B8: []
+---------------------
+Name: WG6
+Orbits: 2WP
+These objects orbit around WG6: [1YC]
+---------------------
+Name: 1YC
+Orbits: WG6
+These objects orbit around 1YC: [22K]
+---------------------
+Name: W89
+Orbits: MPK
+These objects orbit around W89: [5MJ, FQS]
+---------------------
+Name: 5MJ
+Orbits: W89
+These objects orbit around 5MJ: [4LC]
+---------------------
+Name: 1Z7
+Orbits: N56
+These objects orbit around 1Z7: [ZT9]
+---------------------
+Name: ZT9
+Orbits: 1Z7
+These objects orbit around ZT9: [7MP]
+---------------------
+Name: 5ZT
+Orbits: HPK
+These objects orbit around 5ZT: [TC9, LK7]
+---------------------
+Name: TC9
+Orbits: 5ZT
+These objects orbit around TC9: [3BP]
+---------------------
+Name: PY5
+Orbits: 5JB
+These objects orbit around PY5: [D4G]
+---------------------
+Name: D4G
+Orbits: PY5
+These objects orbit around D4G: [9V1]
+---------------------
+Name: J4T
+Orbits: Z9L
+These objects orbit around J4T: [JYY]
+---------------------
+Name: JYY
+Orbits: J4T
+These objects orbit around JYY: [WJW]
+---------------------
+Name: 2FM
+Orbits: FXS
+These objects orbit around 2FM: [MP9]
+---------------------
+Name: MP9
+Orbits: 2FM
+These objects orbit around MP9: [6X1]
+---------------------
+Name: 1S3
+Orbits: SBM
+These objects orbit around 1S3: [FF2]
+---------------------
+Name: FF2
+Orbits: 1S3
+These objects orbit around FF2: [VLK]
+---------------------
+Name: 5WX
+Orbits: DGD
+These objects orbit around 5WX: []
+---------------------
+Name: GWC
+Orbits: 85Z
+These objects orbit around GWC: [LPR]
+---------------------
+Name: H98
+Orbits: TX2
+These objects orbit around H98: [GQF]
+---------------------
+Name: GQF
+Orbits: H98
+These objects orbit around GQF: [QNB]
+---------------------
+Name: WHD
+Orbits: STZ
+These objects orbit around WHD: [NGP, DBH]
+---------------------
+Name: NGP
+Orbits: WHD
+These objects orbit around NGP: [WRM]
+---------------------
+Name: 85S
+Orbits: 9WS
+These objects orbit around 85S: [6Q4]
+---------------------
+Name: 6Q4
+Orbits: 85S
+These objects orbit around 6Q4: [Z1S]
+---------------------
+Name: WSL
+Orbits: B17
+These objects orbit around WSL: [2QH]
+---------------------
+Name: 2QH
+Orbits: WSL
+These objects orbit around 2QH: [LBP]
+---------------------
+Name: W85
+Orbits: 3V6
+These objects orbit around W85: [NHP]
+---------------------
+Name: YVP
+Orbits: MFR
+These objects orbit around YVP: [GFS]
+---------------------
+Name: GFS
+Orbits: YVP
+These objects orbit around GFS: [SMJ]
+---------------------
+Name: H57
+Orbits: 9NW
+These objects orbit around H57: [CSR]
+---------------------
+Name: BF8
+Orbits: CHT
+These objects orbit around BF8: [MMH]
+---------------------
+Name: MMH
+Orbits: BF8
+These objects orbit around MMH: [ZLL]
+---------------------
+Name: 7MP
+Orbits: ZT9
+These objects orbit around 7MP: []
+---------------------
+Name: ZCF
+Orbits: Y44
+These objects orbit around ZCF: [VHS]
+---------------------
+Name: XPX
+Orbits: 2T5
+These objects orbit around XPX: [DPM]
+---------------------
+Name: DPM
+Orbits: XPX
+These objects orbit around DPM: [2F8]
+---------------------
+Name: XSQ
+Orbits: Z5K
+These objects orbit around XSQ: [W2G]
+---------------------
+Name: W2G
+Orbits: XSQ
+These objects orbit around W2G: [G6G]
+---------------------
+Name: 79H
+Orbits: KZQ
+These objects orbit around 79H: [M2P]
+---------------------
+Name: LZ8
+Orbits: 6SJ
+These objects orbit around LZ8: [77S]
+---------------------
+Name: 77S
+Orbits: LZ8
+These objects orbit around 77S: [BSF]
+---------------------
+Name: 2JF
+Orbits: H47
+These objects orbit around 2JF: [XTD, WXG]
+---------------------
+Name: XTD
+Orbits: 2JF
+These objects orbit around XTD: [FXH]
+---------------------
+Name: H47
+Orbits: 2FG
+These objects orbit around H47: [2JF]
+---------------------
+Name: 3YQ
+Orbits: B69
+These objects orbit around 3YQ: [S58, L49]
+---------------------
+Name: S58
+Orbits: 3YQ
+These objects orbit around S58: [1DN]
+---------------------
+Name: 8B8
+Orbits: QMT
+These objects orbit around 8B8: [85B]
+---------------------
+Name: 85B
+Orbits: 8B8
+These objects orbit around 85B: [TDZ]
+---------------------
+Name: L49
+Orbits: 3YQ
+These objects orbit around L49: [KV7]
+---------------------
+Name: 3JF
+Orbits: DSR
+These objects orbit around 3JF: [D7F]
+---------------------
+Name: D7F
+Orbits: 3JF
+These objects orbit around D7F: [LTG]
+---------------------
+Name: 96M
+Orbits: KT3
+These objects orbit around 96M: [FMY]
+---------------------
+Name: FMY
+Orbits: 96M
+These objects orbit around FMY: [HZG]
+---------------------
+Name: QQV
+Orbits: 1QB
+These objects orbit around QQV: [TRD]
+---------------------
+Name: YVH
+Orbits: LK7
+These objects orbit around YVH: [2KK]
+---------------------
+Name: 2KK
+Orbits: YVH
+These objects orbit around 2KK: [GGW]
+---------------------
+Name: 8KC
+Orbits: 6PR
+These objects orbit around 8KC: [K3V]
+---------------------
+Name: K3V
+Orbits: 8KC
+These objects orbit around K3V: [2JH]
+---------------------
+Name: 4D2
+Orbits: SJ3
+These objects orbit around 4D2: [STW]
+---------------------
+Name: STW
+Orbits: 4D2
+These objects orbit around STW: [V21]
+---------------------
+Name: HBH
+Orbits: 1P7
+These objects orbit around HBH: [8BC]
+---------------------
+Name: M9M
+Orbits: 9XB
+These objects orbit around M9M: []
+---------------------
+Name: Q99
+Orbits: 6X1
+These objects orbit around Q99: [8PN]
+---------------------
+Name: 8PN
+Orbits: Q99
+These objects orbit around 8PN: [2R1]
+---------------------
+Name: WJW
+Orbits: JYY
+These objects orbit around WJW: []
+---------------------
+Name: 4LC
+Orbits: 5MJ
+These objects orbit around 4LC: [GB6, XXW]
+---------------------
+Name: GB6
+Orbits: 4LC
+These objects orbit around GB6: [T99]
+---------------------
+Name: 2TR
+Orbits: LNP
+These objects orbit around 2TR: [Y4H, ZSD]
+---------------------
+Name: Y4H
+Orbits: 2TR
+These objects orbit around Y4H: [SYP]
+---------------------
+Name: B4N
+Orbits: LL4
+These objects orbit around B4N: [FGP, 4XK]
+---------------------
+Name: FGP
+Orbits: B4N
+These objects orbit around FGP: [JD3]
+---------------------
+Name: 6PJ
+Orbits: D74
+These objects orbit around 6PJ: [5JB]
+---------------------
+Name: 5JB
+Orbits: 6PJ
+These objects orbit around 5JB: [PY5]
+---------------------
+Name: SMG
+Orbits: YDW
+These objects orbit around SMG: [Q9N, C7T]
+---------------------
+Name: 2YR
+Orbits: WVN
+These objects orbit around 2YR: [FMP]
+---------------------
+Name: FMP
+Orbits: 2YR
+These objects orbit around FMP: [39P]
+---------------------
+Name: 6ND
+Orbits: MX7
+These objects orbit around 6ND: [W5P]
+---------------------
+Name: GY4
+Orbits: YYZ
+These objects orbit around GY4: [WFX]
+---------------------
+Name: Y7Q
+Orbits: 1FY
+These objects orbit around Y7Q: [251, 446]
+---------------------
+Name: 251
+Orbits: Y7Q
+These objects orbit around 251: [3HR]
+---------------------
+Name: H5R
+Orbits: MJS
+These objects orbit around H5R: [YYW]
+---------------------
+Name: 1FY
+Orbits: 4Z7
+These objects orbit around 1FY: [Y7Q]
+---------------------
+Name: 5YG
+Orbits: SXR
+These objects orbit around 5YG: [T49]
+---------------------
+Name: PFL
+Orbits: JWW
+These objects orbit around PFL: [NCT]
+---------------------
+Name: NCT
+Orbits: PFL
+These objects orbit around NCT: [DBV]
+---------------------
+Name: D61
+Orbits: V79
+These objects orbit around D61: [Z5K]
+---------------------
+Name: Z5K
+Orbits: D61
+These objects orbit around Z5K: [XSQ]
+---------------------
+Name: 2KL
+Orbits: QXG
+These objects orbit around 2KL: [V76]
+---------------------
+Name: 62F
+Orbits: 29L
+These objects orbit around 62F: [6DW]
+---------------------
+Name: J3Y
+Orbits: R9C
+These objects orbit around J3Y: [YOU]
+---------------------
+Name: YOU
+Orbits: J3Y
+These objects orbit around YOU: []
+---------------------
+Name: 78Y
+Orbits: NGM
+These objects orbit around 78Y: [GZT]
+---------------------
+Name: GKT
+Orbits: X7P
+These objects orbit around GKT: [M43]
+---------------------
+Name: 121
+Orbits: 11N
+These objects orbit around 121: [PQ6, NJV]
+---------------------
+Name: PQ6
+Orbits: 121
+These objects orbit around PQ6: [MR5]
+---------------------
+Name: LV9
+Orbits: Q5B
+These objects orbit around LV9: [WVG]
+---------------------
+Name: WVG
+Orbits: LV9
+These objects orbit around WVG: [RBT]
+---------------------
+Name: TZV
+Orbits: ZZQ
+These objects orbit around TZV: [BXZ]
+---------------------
+Name: 3S3
+Orbits: 33D
+These objects orbit around 3S3: [LWP]
+---------------------
+Name: CGQ
+Orbits: Q5B
+These objects orbit around CGQ: [CZF]
+---------------------
+Name: CZF
+Orbits: CGQ
+These objects orbit around CZF: [NJK]
+---------------------
+Name: 1RV
+Orbits: SR6
+These objects orbit around 1RV: [4K2]
+---------------------
+Name: F78
+Orbits: GD3
+These objects orbit around F78: [BVN]
+---------------------
+Name: JW6
+Orbits: 4CJ
+These objects orbit around JW6: [GKL]
+---------------------
+Name: GKL
+Orbits: JW6
+These objects orbit around GKL: [6XC]
+---------------------
+Name: P8T
+Orbits: PG9
+These objects orbit around P8T: [6K2]
+---------------------
+Name: 6K2
+Orbits: P8T
+These objects orbit around 6K2: [ZTH]
+---------------------
+Name: HZ7
+Orbits: CFM
+These objects orbit around HZ7: [WSH]
+---------------------
+Name: WSH
+Orbits: HZ7
+These objects orbit around WSH: [J4Z]
+---------------------
+Name: 6V5
+Orbits: NCD
+These objects orbit around 6V5: [PG9]
+---------------------
+Name: PG9
+Orbits: 6V5
+These objects orbit around PG9: [P8T]
+---------------------
+Name: R9C
+Orbits: 5XW
+These objects orbit around R9C: [J3Y]
+---------------------
+Name: PJC
+Orbits: PMN
+These objects orbit around PJC: [G3V]
+---------------------
+Name: G3V
+Orbits: PJC
+These objects orbit around G3V: [QMV]
+---------------------
+Name: 5Y4
+Orbits: YV7
+These objects orbit around 5Y4: [63K]
+---------------------
+Name: 63K
+Orbits: 5Y4
+These objects orbit around 63K: [XPR]
+---------------------
+Name: 4M5
+Orbits: 1LD
+These objects orbit around 4M5: [7W3]
+---------------------
+Name: 7W3
+Orbits: 4M5
+These objects orbit around 7W3: [1YS]
+---------------------
+Name: 23M
+Orbits: 2BF
+These objects orbit around 23M: []
+---------------------
+Name: LX6
+Orbits: 9V1
+These objects orbit around LX6: [TWM]
+---------------------
+Name: TWM
+Orbits: LX6
+These objects orbit around TWM: [LWS]
+---------------------
+Name: 526
+Orbits: J2T
+These objects orbit around 526: [KV6]
+---------------------
+Name: LK7
+Orbits: 5ZT
+These objects orbit around LK7: [YVH]
+---------------------
+Name: 576
+Orbits: XH4
+These objects orbit around 576: [9ML]
+---------------------
+Name: 6D9
+Orbits: NHP
+These objects orbit around 6D9: [4HZ]
+---------------------
+Name: 4HZ
+Orbits: 6D9
+These objects orbit around 4HZ: [ZTP]
+---------------------
+Name: 6VC
+Orbits: FBB
+These objects orbit around 6VC: [HQP, 6TY]
+---------------------
+Name: HQP
+Orbits: 6VC
+These objects orbit around HQP: [WYQ]
+---------------------
+Name: 119
+Orbits: CFS
+These objects orbit around 119: [DPY]
+---------------------
+Name: 3BP
+Orbits: TC9
+These objects orbit around 3BP: [FPT]
+---------------------
+Name: CBX
+Orbits: JYR
+These objects orbit around CBX: [DSW, X1H]
+---------------------
+Name: LG6
+Orbits: JMQ
+These objects orbit around LG6: [HQW]
+---------------------
+Name: QTB
+Orbits: YDW
+These objects orbit around QTB: [8GW, 4T3]
+---------------------
+Name: VWD
+Orbits: M2H
+These objects orbit around VWD: [JWN]
+---------------------
+Name: JWN
+Orbits: VWD
+These objects orbit around JWN: []
+---------------------
+Name: JHL
+Orbits: 3PY
+These objects orbit around JHL: [9W9]
+---------------------
+Name: BRX
+Orbits: 6SL
+These objects orbit around BRX: [W86]
+---------------------
+Name: GD7
+Orbits: 9MQ
+These objects orbit around GD7: [51L]
+---------------------
+Name: Y2T
+Orbits: CH7
+These objects orbit around Y2T: [9FS]
+---------------------
+Name: 9FS
+Orbits: Y2T
+These objects orbit around 9FS: [PKC, XBM]
+---------------------
+Name: TGF
+Orbits: XT5
+These objects orbit around TGF: [976]
+---------------------
+Name: 976
+Orbits: TGF
+These objects orbit around 976: [SYR]
+---------------------
+Name: 6PP
+Orbits: KQJ
+These objects orbit around 6PP: [WT1]
+---------------------
+Name: WT1
+Orbits: 6PP
+These objects orbit around WT1: [J7R, GMP]
+---------------------
+Name: 9W9
+Orbits: JHL
+These objects orbit around 9W9: [85M]
+---------------------
+Name: SMJ
+Orbits: GFS
+These objects orbit around SMJ: [99W]
+---------------------
+Name: 99W
+Orbits: SMJ
+These objects orbit around 99W: [K9Z]
+---------------------
+Name: ZL1
+Orbits: TQ7
+These objects orbit around ZL1: [MJ5]
+---------------------
+Name: MJ5
+Orbits: ZL1
+These objects orbit around MJ5: [5PZ]
+---------------------
+Name: RSW
+Orbits: 8K1
+These objects orbit around RSW: [6KQ]
+---------------------
+Name: 6KQ
+Orbits: RSW
+These objects orbit around 6KQ: []
+---------------------
+Name: DD7
+Orbits: 7LJ
+These objects orbit around DD7: [M86]
+---------------------
+Name: M86
+Orbits: DD7
+These objects orbit around M86: []
+---------------------
+Name: 2VQ
+Orbits: SLM
+These objects orbit around 2VQ: [22G]
+---------------------
+Name: M9J
+Orbits: SBV
+These objects orbit around M9J: [HMW]
+---------------------
+Name: HMW
+Orbits: M9J
+These objects orbit around HMW: [BWJ]
+---------------------
+Name: 8G5
+Orbits: 399
+These objects orbit around 8G5: [JPH]
+---------------------
+Name: JPH
+Orbits: 8G5
+These objects orbit around JPH: [Y6Q]
+---------------------
+Name: MFR
+Orbits: 9MM
+These objects orbit around MFR: [YVP]
+---------------------
+Name: WXG
+Orbits: 2JF
+These objects orbit around WXG: [TWQ]
+---------------------
+Name: LBP
+Orbits: 2QH
+These objects orbit around LBP: [53C]
+---------------------
+Name: 15R
+Orbits: 1Z2
+These objects orbit around 15R: [7YR, PKD]
+---------------------
+Name: 7YR
+Orbits: 15R
+These objects orbit around 7YR: [K32]
+---------------------
+Name: K17
+Orbits: PTP
+These objects orbit around K17: [7VX]
+---------------------
+Name: 7VX
+Orbits: K17
+These objects orbit around 7VX: []
+---------------------
+Name: QZQ
+Orbits: C7T
+These objects orbit around QZQ: [YQ4]
+---------------------
+Name: QZF
+Orbits: 3Q3
+These objects orbit around QZF: [WFT]
+---------------------
+Name: WFT
+Orbits: QZF
+These objects orbit around WFT: [8D1]
+---------------------
+Name: 2B1
+Orbits: 3YT
+These objects orbit around 2B1: [D4Q]
+---------------------
+Name: D4Q
+Orbits: 2B1
+These objects orbit around D4Q: [Y44]
+---------------------
+Name: V21
+Orbits: STW
+These objects orbit around V21: []
+---------------------
+Name: ZDX
+Orbits: VDT
+These objects orbit around ZDX: [669]
+---------------------
+Name: 8Y7
+Orbits: WT2
+These objects orbit around 8Y7: [6V6]
+---------------------
+Name: KDY
+Orbits: FHY
+These objects orbit around KDY: [DN4]
+---------------------
+Name: LHZ
+Orbits: DVT
+These objects orbit around LHZ: [TLL]
+---------------------
+Name: 6M5
+Orbits: 2WD
+These objects orbit around 6M5: [9FC]
+---------------------
+Name: S2B
+Orbits: ZQ7
+These objects orbit around S2B: [YV7]
+---------------------
+Name: YV7
+Orbits: S2B
+These objects orbit around YV7: [5Y4]
+---------------------
+Name: DCR
+Orbits: JH9
+These objects orbit around DCR: [NG1]
+---------------------
+Name: NG1
+Orbits: DCR
+These objects orbit around NG1: [3VT]
+---------------------
+Name: CQW
+Orbits: R91
+These objects orbit around CQW: [427]
+---------------------
+Name: MJQ
+Orbits: TX2
+These objects orbit around MJQ: [LMT]
+---------------------
+Name: ST3
+Orbits: F85
+These objects orbit around ST3: [YDW]
+---------------------
+Name: YDW
+Orbits: ST3
+These objects orbit around YDW: [QTB, SMG]
+---------------------
+Name: 4T3
+Orbits: QTB
+These objects orbit around 4T3: [4Y4]
+---------------------
+Name: 4Y4
+Orbits: 4T3
+These objects orbit around 4Y4: [2WP]
+---------------------
+Name: 3VT
+Orbits: NG1
+These objects orbit around 3VT: [26D]
+---------------------
+Name: 26D
+Orbits: 3VT
+These objects orbit around 26D: [RC9]
+---------------------
+Name: 3HR
+Orbits: 251
+These objects orbit around 3HR: [31P]
+---------------------
+Name: 31P
+Orbits: 3HR
+These objects orbit around 31P: [LN9]
+---------------------
+Name: BSF
+Orbits: 77S
+These objects orbit around BSF: [HHP]
+---------------------
+Name: HHP
+Orbits: BSF
+These objects orbit around HHP: [2BL, JCM]
+---------------------
+Name: VL2
+Orbits: SVJ
+These objects orbit around VL2: [3H4]
+---------------------
+Name: 3H4
+Orbits: VL2
+These objects orbit around 3H4: [1RW]
+---------------------
+Name: C3Y
+Orbits: TVM
+These objects orbit around C3Y: [G54]
+---------------------
+Name: 45N
+Orbits: 9M1
+These objects orbit around 45N: [QG2]
+---------------------
+Name: G6G
+Orbits: W2G
+These objects orbit around G6G: [6F1]
+---------------------
+Name: 6F1
+Orbits: G6G
+These objects orbit around 6F1: []
+---------------------
+Name: Z1Z
+Orbits: Y74
+These objects orbit around Z1Z: [L1Y]
+---------------------
+Name: LSK
+Orbits: F5T
+These objects orbit around LSK: [KWN]
+---------------------
+Name: WV5
+Orbits: N38
+These objects orbit around WV5: [KPZ]
+---------------------
+Name: KPZ
+Orbits: WV5
+These objects orbit around KPZ: [6G2]
+---------------------
+Name: 22G
+Orbits: 2VQ
+These objects orbit around 22G: []
+---------------------
+Name: KZQ
+Orbits: 582
+These objects orbit around KZQ: [79H]
+---------------------
+Name: 5RX
+Orbits: LLJ
+These objects orbit around 5RX: [8M1]
+---------------------
+Name: 8M1
+Orbits: 5RX
+These objects orbit around 8M1: [79F]
+---------------------
+Name: QMV
+Orbits: G3V
+These objects orbit around QMV: [DBM]
+---------------------
+Name: WHW
+Orbits: THC
+These objects orbit around WHW: [3NP]
+---------------------
+Name: P2P
+Orbits: TC8
+These objects orbit around P2P: [19H]
+---------------------
+Name: 19H
+Orbits: P2P
+These objects orbit around 19H: [MTY]
+---------------------
+Name: DHM
+Orbits: MLD
+These objects orbit around DHM: [2CL]
+---------------------
+Name: XZ5
+Orbits: PCP
+These objects orbit around XZ5: [6GJ]
+---------------------
+Name: FR1
+Orbits: MB5
+These objects orbit around FR1: [NBT]
+---------------------
+Name: NBT
+Orbits: FR1
+These objects orbit around NBT: [FBK]
+---------------------
+Name: HHD
+Orbits: 254
+These objects orbit around HHD: [K11]
+---------------------
+Name: K11
+Orbits: HHD
+These objects orbit around K11: [P3F]
+---------------------
+Name: 31T
+Orbits: X68
+These objects orbit around 31T: [HVF]
+---------------------
+Name: B2S
+Orbits: JCM
+These objects orbit around B2S: [WP9]
+---------------------
+Name: 1QB
+Orbits: X4Y
+These objects orbit around 1QB: [QQV]
+---------------------
+Name: JF5
+Orbits: VPL
+These objects orbit around JF5: [VY2]
+---------------------
+Name: YBN
+Orbits: C4Z
+These objects orbit around YBN: []
+---------------------
+Name: 5DH
+Orbits: 8WX
+These objects orbit around 5DH: [74L, BBR]
+---------------------
+Name: 74L
+Orbits: 5DH
+These objects orbit around 74L: []
+---------------------
+Name: VY2
+Orbits: JF5
+These objects orbit around VY2: [R8D]
+---------------------
+Name: R8D
+Orbits: VY2
+These objects orbit around R8D: [D2N]
+---------------------
+Name: MZ1
+Orbits: 46H
+These objects orbit around MZ1: [TT2]
+---------------------
+Name: DTN
+Orbits: MJV
+These objects orbit around DTN: [JG7]
+---------------------
+Name: NY2
+Orbits: Y77
+These objects orbit around NY2: [DZ8]
+---------------------
+Name: DZ8
+Orbits: NY2
+These objects orbit around DZ8: []
+---------------------
+Name: SZ3
+Orbits: XK7
+These objects orbit around SZ3: [RLZ]
+---------------------
+Name: RLZ
+Orbits: SZ3
+These objects orbit around RLZ: [5D3]
+---------------------
+Name: HQH
+Orbits: SYP
+These objects orbit around HQH: [4GR]
+---------------------
+Name: 4GR
+Orbits: HQH
+These objects orbit around 4GR: [DNV]
+---------------------
+Name: MMC
+Orbits: 2L8
+These objects orbit around MMC: [TLH]
+---------------------
+Name: 4XK
+Orbits: B4N
+These objects orbit around 4XK: [S39, P77]
+---------------------
+Name: 2ZQ
+Orbits: SZD
+These objects orbit around 2ZQ: [JWW]
+---------------------
+Name: JWW
+Orbits: 2ZQ
+These objects orbit around JWW: [PFL]
+---------------------
+Name: 2YM
+Orbits: TTM
+These objects orbit around 2YM: [QMT]
+---------------------
+Name: QMT
+Orbits: 2YM
+These objects orbit around QMT: [8B8]
+---------------------
+Name: KJK
+Orbits: GN4
+These objects orbit around KJK: [D4P]
+---------------------
+Name: GMK
+Orbits: P1V
+These objects orbit around GMK: [GGS]
+---------------------
+Name: 2RB
+Orbits: P2S
+These objects orbit around 2RB: [NTV]
+---------------------
+Name: FQS
+Orbits: W89
+These objects orbit around FQS: []
+---------------------
+Name: DLS
+Orbits: T9Q
+These objects orbit around DLS: [1MP]
+---------------------
+Name: MHX
+Orbits: 669
+These objects orbit around MHX: [44H, K48]
+---------------------
+Name: 44H
+Orbits: MHX
+These objects orbit around 44H: [MJV]
+---------------------
+Name: 3QM
+Orbits: C2T
+These objects orbit around 3QM: [Y77]
+---------------------
+Name: W86
+Orbits: BRX
+These objects orbit around W86: [T6T]
+---------------------
+Name: MCN
+Orbits: T2C
+These objects orbit around MCN: [X9M]
+---------------------
+Name: X9M
+Orbits: MCN
+These objects orbit around X9M: [2H7]
+---------------------
+Name: GHP
+Orbits: SCH
+These objects orbit around GHP: [731]
+---------------------
+Name: D2N
+Orbits: R8D
+These objects orbit around D2N: []
+---------------------
+Name: ZQX
+Orbits: 4NW
+These objects orbit around ZQX: [37J]
+---------------------
+Name: 37J
+Orbits: ZQX
+These objects orbit around 37J: []
+---------------------
+Name: LN8
+Orbits: MZN
+These objects orbit around LN8: [BRM]
+---------------------
+Name: BRM
+Orbits: LN8
+These objects orbit around BRM: [465]
+---------------------
+Name: ZK6
+Orbits: HWD
+These objects orbit around ZK6: [4CJ]
+---------------------
+Name: 53C
+Orbits: LBP
+These objects orbit around 53C: [3GQ]
+---------------------
+Name: 7KF
+Orbits: YX6
+These objects orbit around 7KF: []
+---------------------
+Name: 5QW
+Orbits: FCN
+These objects orbit around 5QW: [SBM]
+---------------------
+Name: SBM
+Orbits: 5QW
+These objects orbit around SBM: [1S3]
+---------------------
+Name: LXH
+Orbits: FDH
+These objects orbit around LXH: [KVK]
+---------------------
+Name: G3L
+Orbits: 263
+These objects orbit around G3L: [TCC]
+---------------------
+Name: B1G
+Orbits: R4R
+These objects orbit around B1G: [XTY]
+---------------------
+Name: XTY
+Orbits: B1G
+These objects orbit around XTY: [N5R]
+---------------------
+Name: 5TM
+Orbits: CWD
+These objects orbit around 5TM: []
+---------------------
+Name: TNB
+Orbits: JXG
+These objects orbit around TNB: [L5S]
+---------------------
+Name: 6XC
+Orbits: GKL
+These objects orbit around 6XC: [WPS]
+---------------------
+Name: WPS
+Orbits: 6XC
+These objects orbit around WPS: [S8G]
+---------------------
+Name: 7QK
+Orbits: 71W
+These objects orbit around 7QK: [G5V]
+---------------------
+Name: CSR
+Orbits: H57
+These objects orbit around CSR: [B69]
+---------------------
+Name: B69
+Orbits: CSR
+These objects orbit around B69: [3YQ]
+---------------------
+Name: YHG
+Orbits: 2R4
+These objects orbit around YHG: [5XK]
+---------------------
+Name: 5XK
+Orbits: YHG
+These objects orbit around 5XK: [SB4]
+---------------------
+Name: ZTH
+Orbits: 6K2
+These objects orbit around ZTH: []
+---------------------
+Name: C7T
+Orbits: SMG
+These objects orbit around C7T: [QZQ, VVD]
+---------------------
+Name: NBN
+Orbits: CRN
+These objects orbit around NBN: [FVW]
+---------------------
+Name: FVW
+Orbits: NBN
+These objects orbit around FVW: [9KG, V79]
+---------------------
+Name: QJ6
+Orbits: 8P1
+These objects orbit around QJ6: [L64]
+---------------------
+Name: VDR
+Orbits: 5WZ
+These objects orbit around VDR: [4YD]
+---------------------
+Name: 4YD
+Orbits: VDR
+These objects orbit around 4YD: [XK7]
+---------------------
+Name: 25M
+Orbits: DKW
+These objects orbit around 25M: [MDK]
+---------------------
+Name: LNN
+Orbits: RB5
+These objects orbit around LNN: [FHY]
+---------------------
+Name: FHY
+Orbits: LNN
+These objects orbit around FHY: [KDY]
+---------------------
+Name: 2F8
+Orbits: DPM
+These objects orbit around 2F8: []
+---------------------
+Name: S4M
+Orbits: 899
+These objects orbit around S4M: [B4V]
+---------------------
+Name: 5D3
+Orbits: RLZ
+These objects orbit around 5D3: [6NG]
+---------------------
+Name: F85
+Orbits: DFL
+These objects orbit around F85: [ST3]
+---------------------
+Name: Q8N
+Orbits: DV3
+These objects orbit around Q8N: [81J]
+---------------------
+Name: 81J
+Orbits: Q8N
+These objects orbit around 81J: [839]
+---------------------
+Name: 85M
+Orbits: 9W9
+These objects orbit around 85M: [51G]
+---------------------
+Name: 51G
+Orbits: 85M
+These objects orbit around 51G: [R67]
+---------------------
+Name: M1F
+Orbits: K7D
+These objects orbit around M1F: [76Z]
+---------------------
+Name: 76Z
+Orbits: M1F
+These objects orbit around 76Z: []
+---------------------
+Name: NY1
+Orbits: 8LP
+These objects orbit around NY1: [59Y, P8R]
+---------------------
+Name: 21C
+Orbits: 1RW
+These objects orbit around 21C: [P5K]
+---------------------
+Name: P5K
+Orbits: 21C
+These objects orbit around P5K: [DM4]
+---------------------
+Name: Z59
+Orbits: BJL
+These objects orbit around Z59: [9H1]
+---------------------
+Name: 9H1
+Orbits: Z59
+These objects orbit around 9H1: [WG9]
+---------------------
+Name: M8V
+Orbits: VC7
+These objects orbit around M8V: []
+---------------------
+Name: 3RL
+Orbits: Y5J
+These objects orbit around 3RL: [WKP]
+---------------------
+Name: WKP
+Orbits: 3RL
+These objects orbit around WKP: [Z8K]
+---------------------
+Name: BQ2
+Orbits: J3X
+These objects orbit around BQ2: [LX1]
+---------------------
+Name: LX1
+Orbits: BQ2
+These objects orbit around LX1: [MW5]
+---------------------
+Name: 8LL
+Orbits: 86K
+These objects orbit around 8LL: [TTM, 7T3]
+---------------------
+Name: TTM
+Orbits: 8LL
+These objects orbit around TTM: [2YM]
+---------------------
+Name: MC7
+Orbits: CKH
+These objects orbit around MC7: [3M5]
+---------------------
+Name: L4Z
+Orbits: 5V9
+These objects orbit around L4Z: [11N]
+---------------------
+Name: 11N
+Orbits: L4Z
+These objects orbit around 11N: [121]
+---------------------
+Name: RPZ
+Orbits: 9MM
+These objects orbit around RPZ: [9DJ]
+---------------------
+Name: 9DJ
+Orbits: RPZ
+These objects orbit around 9DJ: [7K5]
+---------------------
+Name: DPY
+Orbits: 119
+These objects orbit around DPY: [C4F]
+---------------------
+Name: XK7
+Orbits: 4YD
+These objects orbit around XK7: [SZ3]
+---------------------
+Name: 3CS
+Orbits: S7X
+These objects orbit around 3CS: [ZR3]
+---------------------
+Name: 3PN
+Orbits: 389
+These objects orbit around 3PN: [WYW]
+---------------------
+Name: 5V9
+Orbits: LL4
+These objects orbit around 5V9: [L4Z]
+---------------------
+Name: HSJ
+Orbits: YBL
+These objects orbit around HSJ: [SKF]
+---------------------
+Name: SKF
+Orbits: HSJ
+These objects orbit around SKF: [RJ3]
+---------------------
+Name: PTP
+Orbits: WNH
+These objects orbit around PTP: [K17]
+---------------------
+Name: X4Y
+Orbits: MPW
+These objects orbit around X4Y: [1QB]
+---------------------
+Name: LRM
+Orbits: RVS
+These objects orbit around LRM: [CFY]
+---------------------
+Name: CFY
+Orbits: LRM
+These objects orbit around CFY: [TRW]
+---------------------
+Name: V3G
+Orbits: 7W1
+These objects orbit around V3G: [W9B]
+---------------------
+Name: SBR
+Orbits: QZV
+These objects orbit around SBR: [PJ6]
+---------------------
+Name: PJ6
+Orbits: SBR
+These objects orbit around PJ6: []
+---------------------
+Name: KYQ
+Orbits: COM
+These objects orbit around KYQ: [Q9S]
+---------------------
+Name: Q9S
+Orbits: KYQ
+These objects orbit around Q9S: [2D1]
+---------------------
+Name: WQ4
+Orbits: FG2
+These objects orbit around WQ4: [CCD]
+---------------------
+Name: N25
+Orbits: 5BP
+These objects orbit around N25: [2BZ]
+---------------------
+Name: 2BZ
+Orbits: N25
+These objects orbit around 2BZ: [CB5]
+---------------------
+Name: 9V1
+Orbits: D4G
+These objects orbit around 9V1: [LX6]
+---------------------
+Name: MW5
+Orbits: LX1
+These objects orbit around MW5: [42P]
+---------------------
+Name: RB5
+Orbits: 2G7
+These objects orbit around RB5: [XJR, LNN]
+---------------------
+Name: XJR
+Orbits: RB5
+These objects orbit around XJR: [MZN]
+---------------------
+Name: W29
+Orbits: N4H
+These objects orbit around W29: [LKV]
+---------------------
+Name: LKV
+Orbits: W29
+These objects orbit around LKV: [VKQ]
+---------------------
+Name: CTG
+Orbits: SDT
+These objects orbit around CTG: [HLP]
+---------------------
+Name: HLP
+Orbits: CTG
+These objects orbit around HLP: [D6F]
+---------------------
+Name: BTR
+Orbits: 9BC
+These objects orbit around BTR: [JP6]
+---------------------
+Name: P9B
+Orbits: W6T
+These objects orbit around P9B: [ZSN]
+---------------------
+Name: ZSN
+Orbits: P9B
+These objects orbit around ZSN: [RGM]
+---------------------
+Name: PLY
+Orbits: VG6
+These objects orbit around PLY: [Z4B]
+---------------------
+Name: Z4B
+Orbits: PLY
+These objects orbit around Z4B: [DL1]
+---------------------
+Name: L64
+Orbits: QJ6
+These objects orbit around L64: [QMW]
+---------------------
+Name: QMW
+Orbits: L64
+These objects orbit around QMW: []
+---------------------
+Name: T96
+Orbits: DD8
+These objects orbit around T96: [LGD]
+---------------------
+Name: LGD
+Orbits: T96
+These objects orbit around LGD: []
+---------------------
+Name: 399
+Orbits: HZG
+These objects orbit around 399: [8G5]
+---------------------
+Name: Y5J
+Orbits: M5N
+These objects orbit around Y5J: [31F, 3RL]
+---------------------
+Name: 31F
+Orbits: Y5J
+These objects orbit around 31F: [XZY]
+---------------------
+Name: FCN
+Orbits: G8X
+These objects orbit around FCN: [5QW]
+---------------------
+Name: Y44
+Orbits: D4Q
+These objects orbit around Y44: [ZCF]
+---------------------
+Name: B12
+Orbits: 8X4
+These objects orbit around B12: []
+---------------------
+Name: Z8K
+Orbits: WKP
+These objects orbit around Z8K: [CPT]
+---------------------
+Name: LRH
+Orbits: WXR
+These objects orbit around LRH: [6YQ, FBM]
+---------------------
+Name: 6YQ
+Orbits: LRH
+These objects orbit around 6YQ: [CH7, QHQ]
+---------------------
+Name: NHC
+Orbits: R9F
+These objects orbit around NHC: [CKH]
+---------------------
+Name: QLQ
+Orbits: 124
+These objects orbit around QLQ: [HLJ, TQV]
+---------------------
+Name: HLJ
+Orbits: QLQ
+These objects orbit around HLJ: []
+---------------------
+Name: VKQ
+Orbits: LKV
+These objects orbit around VKQ: [YPQ]
+---------------------
+Name: YPQ
+Orbits: VKQ
+These objects orbit around YPQ: []
+---------------------
+Name: BC3
+Orbits: YJH
+These objects orbit around BC3: [9VB]
+---------------------
+Name: 9VB
+Orbits: BC3
+These objects orbit around 9VB: [DW1]
+---------------------
+Name: 9F6
+Orbits: NRN
+These objects orbit around 9F6: [46L]
+---------------------
+Name: 46L
+Orbits: 9F6
+These objects orbit around 46L: [1YL]
+---------------------
+Name: 74X
+Orbits: WBB
+These objects orbit around 74X: [39R]
+---------------------
+Name: Z1T
+Orbits: LWS
+These objects orbit around Z1T: [WVM]
+---------------------
+Name: WVM
+Orbits: Z1T
+These objects orbit around WVM: [YFD, SXB]
+---------------------
+Name: V3D
+Orbits: WXN
+These objects orbit around V3D: []
+---------------------
+Name: SYR
+Orbits: 976
+These objects orbit around SYR: [NPS]
+---------------------
+Name: 42P
+Orbits: MW5
+These objects orbit around 42P: []
+---------------------
+Name: H3J
+Orbits: JPK
+These objects orbit around H3J: [8ML]
+---------------------
+Name: B6N
+Orbits: ZCS
+These objects orbit around B6N: [1DD]
+---------------------
+Name: FXH
+Orbits: XTD
+These objects orbit around FXH: [HL7]
+---------------------
+Name: TCC
+Orbits: G3L
+These objects orbit around TCC: [T7C]
+---------------------
+Name: RJ3
+Orbits: SKF
+These objects orbit around RJ3: [QD6]
+---------------------
+Name: QD6
+Orbits: RJ3
+These objects orbit around QD6: [MX7]
+---------------------
+Name: PM7
+Orbits: 2YB
+These objects orbit around PM7: [VM5]
+---------------------
+Name: 2JH
+Orbits: K3V
+These objects orbit around 2JH: [DJ5, 3VX]
+---------------------
+Name: 3WZ
+Orbits: HCS
+These objects orbit around 3WZ: [QN6]
+---------------------
+Name: ZPY
+Orbits: 1HY
+These objects orbit around ZPY: []
+---------------------
+Name: VRL
+Orbits: STF
+These objects orbit around VRL: [HQL]
+---------------------
+Name: HQL
+Orbits: VRL
+These objects orbit around HQL: [TF2]
+---------------------
+Name: HLH
+Orbits: HPF
+These objects orbit around HLH: [BMT, DPC]
+---------------------
+Name: 4NW
+Orbits: MRW
+These objects orbit around 4NW: [ZQX]
+---------------------
+Name: 1M1
+Orbits: HVH
+These objects orbit around 1M1: [L4R]
+---------------------
+Name: L4R
+Orbits: 1M1
+These objects orbit around L4R: [4VB]
+---------------------
+Name: PKD
+Orbits: 15R
+These objects orbit around PKD: [JL4]
+---------------------
+Name: 731
+Orbits: GHP
+These objects orbit around 731: [VG6]
+---------------------
+Name: VG6
+Orbits: 731
+These objects orbit around VG6: [PLY]
+---------------------
+Name: GP7
+Orbits: QHR
+These objects orbit around GP7: [ZZZ]
+---------------------
+Name: GCM
+Orbits: B9X
+These objects orbit around GCM: [D8F]
+---------------------
+Name: D8F
+Orbits: GCM
+These objects orbit around D8F: [7F2]
+---------------------
+Name: RVS
+Orbits: 5DV
+These objects orbit around RVS: [LRM]
+---------------------
+Name: QJK
+Orbits: GXR
+These objects orbit around QJK: [PB9]
+---------------------
+Name: PB9
+Orbits: QJK
+These objects orbit around PB9: []
+---------------------
+Name: KXH
+Orbits: 67M
+These objects orbit around KXH: [KM5]
+---------------------
+Name: VVD
+Orbits: C7T
+These objects orbit around VVD: [B6S, 97N]
+---------------------
+Name: B6S
+Orbits: VVD
+These objects orbit around B6S: [TY1]
+---------------------
+Name: CXQ
+Orbits: ZLD
+These objects orbit around CXQ: [DKW]
+---------------------
+Name: 5BP
+Orbits: HXJ
+These objects orbit around 5BP: [N25]
+---------------------
+Name: SVJ
+Orbits: ZSD
+These objects orbit around SVJ: [Y4C, VL2]
+---------------------
+Name: Y4C
+Orbits: SVJ
+These objects orbit around Y4C: []
+---------------------
+Name: TRW
+Orbits: CFY
+These objects orbit around TRW: [VK7, NQ6]
+---------------------
+Name: LN9
+Orbits: 31P
+These objects orbit around LN9: [85Z, NWS]
+---------------------
+Name: 85Z
+Orbits: LN9
+These objects orbit around 85Z: [GWC]
+---------------------
+Name: Z9J
+Orbits: FF8
+These objects orbit around Z9J: [94M]
+---------------------
+Name: 9WS
+Orbits: NHP
+These objects orbit around 9WS: [85S]
+---------------------
+Name: 59Y
+Orbits: NY1
+These objects orbit around 59Y: [FRK]
+---------------------
+Name: 4K2
+Orbits: 1RV
+These objects orbit around 4K2: [XV1]
+---------------------
+Name: 33D
+Orbits: ZKL
+These objects orbit around 33D: [3S3]
+---------------------
+Name: 9T1
+Orbits: 3HX
+These objects orbit around 9T1: []
+---------------------
+Name: 4BV
+Orbits: 9ZP
+These objects orbit around 4BV: [NNK]
+---------------------
+Name: K6B
+Orbits: R5D
+These objects orbit around K6B: []
+---------------------
+Name: DLW
+Orbits: CMQ
+These objects orbit around DLW: [LJK]
+---------------------
+Name: CH7
+Orbits: 6YQ
+These objects orbit around CH7: [Y2T]
+---------------------
+Name: QHQ
+Orbits: 6YQ
+These objects orbit around QHQ: [VSG]
+---------------------
+Name: HPV
+Orbits: 85G
+These objects orbit around HPV: [BLQ]
+---------------------
+Name: 9BR
+Orbits: LQ9
+These objects orbit around 9BR: [65J]
+---------------------
+Name: 7F2
+Orbits: D8F
+These objects orbit around 7F2: [VRR]
+---------------------
+Name: VRR
+Orbits: 7F2
+These objects orbit around VRR: [FP7]
+---------------------
+Name: 29L
+Orbits: NYC
+These objects orbit around 29L: [62F]
+---------------------
+Name: 2D1
+Orbits: Q9S
+These objects orbit around 2D1: [M74]
+---------------------
+Name: PWY
+Orbits: TFL
+These objects orbit around PWY: [8DV, PYY]
+---------------------
+Name: S8G
+Orbits: WPS
+These objects orbit around S8G: []
+---------------------
+Name: FB3
+Orbits: S48
+These objects orbit around FB3: [7HH]
+---------------------
+Name: 7HH
+Orbits: FB3
+These objects orbit around 7HH: [LLJ]
+---------------------
+Name: 1YL
+Orbits: 46L
+These objects orbit around 1YL: [HG7]
+---------------------
+Name: HG7
+Orbits: 1YL
+These objects orbit around HG7: [QH2]
+---------------------
+Name: F57
+Orbits: 1SZ
+These objects orbit around F57: [WNY]
+---------------------
+Name: WNY
+Orbits: F57
+These objects orbit around WNY: [HNZ]
+---------------------
+Name: WP9
+Orbits: B2S
+These objects orbit around WP9: [LM1]
+---------------------
+Name: LM1
+Orbits: WP9
+These objects orbit around LM1: [K93]
+---------------------
+Name: N5R
+Orbits: XTY
+These objects orbit around N5R: [6DH]
+---------------------
+Name: LWS
+Orbits: TWM
+These objects orbit around LWS: [Z1T]
+---------------------
+Name: 78G
+Orbits: 3KZ
+These objects orbit around 78G: [WVL]
+---------------------
+Name: WVL
+Orbits: 78G
+These objects orbit around WVL: [P9M]
+---------------------
+Name: YS1
+Orbits: P5D
+These objects orbit around YS1: [QJM]
+---------------------
+Name: QJM
+Orbits: YS1
+These objects orbit around QJM: []
+---------------------
+Name: 314
+Orbits: BTV
+These objects orbit around 314: [7H1]
+---------------------
+Name: XDL
+Orbits: WLR
+These objects orbit around XDL: [TCQ]
+---------------------
+Name: 6MW
+Orbits: D4P
+These objects orbit around 6MW: [389]
+---------------------
+Name: 389
+Orbits: 6MW
+These objects orbit around 389: [3PN]
+---------------------
+Name: TQ6
+Orbits: MYZ
+These objects orbit around TQ6: [MLD]
+---------------------
+Name: 37V
+Orbits: X5S
+These objects orbit around 37V: [JQW]
+---------------------
+Name: JQW
+Orbits: 37V
+These objects orbit around JQW: [HG3]
+---------------------
+Name: QKL
+Orbits: 3HJ
+These objects orbit around QKL: [T2W]
+---------------------
+Name: D4R
+Orbits: DJR
+These objects orbit around D4R: [JH9]
+---------------------
+Name: CRK
+Orbits: KPD
+These objects orbit around CRK: [G2Q]
+---------------------
+Name: 465
+Orbits: BRM
+These objects orbit around 465: [X8K]
+---------------------
+Name: CFM
+Orbits: 5JJ
+These objects orbit around CFM: [HZ7]
+---------------------
+Name: W8Q
+Orbits: FCG
+These objects orbit around W8Q: [ZQ7]
+---------------------
+Name: Q6V
+Orbits: QW1
+These objects orbit around Q6V: [YJH]
+---------------------
+Name: PYY
+Orbits: PWY
+These objects orbit around PYY: [1JW]
+---------------------
+Name: 1JW
+Orbits: PYY
+These objects orbit around 1JW: [STF]
+---------------------
+Name: 6B4
+Orbits: CW1
+These objects orbit around 6B4: [NG5]
+---------------------
+Name: NG5
+Orbits: 6B4
+These objects orbit around NG5: [P5G]
+---------------------
+Name: NQ6
+Orbits: TRW
+These objects orbit around NQ6: [RL1]
+---------------------
+Name: RL1
+Orbits: NQ6
+These objects orbit around RL1: [TRV]
+---------------------
+Name: 39N
+Orbits: 4W7
+These objects orbit around 39N: [17X]
+---------------------
+Name: XF7
+Orbits: QY4
+These objects orbit around XF7: [VW9]
+---------------------
+Name: MTY
+Orbits: 19H
+These objects orbit around MTY: [1PP]
+---------------------
+Name: 1PP
+Orbits: MTY
+These objects orbit around 1PP: [1W5]
+---------------------
+Name: BV1
+Orbits: TF2
+These objects orbit around BV1: [S4Q]
+---------------------
+Name: S4Q
+Orbits: BV1
+These objects orbit around S4Q: [3X8]
+---------------------
+Name: 4CJ
+Orbits: ZK6
+These objects orbit around 4CJ: [JW6]
+---------------------
+Name: DTL
+Orbits: 52R
+These objects orbit around DTL: []
+---------------------
+Name: WBK
+Orbits: 453
+These objects orbit around WBK: [4CZ]
+---------------------
+Name: BLQ
+Orbits: HPV
+These objects orbit around BLQ: [B16]
+---------------------
+Name: JH9
+Orbits: D4R
+These objects orbit around JH9: [DCR, CM4]
+---------------------
+Name: JSF
+Orbits: 8T6
+These objects orbit around JSF: [NZX, 4BM]
+---------------------
+Name: FCG
+Orbits: NJK
+These objects orbit around FCG: [W8Q]
+---------------------
+Name: YJH
+Orbits: Q6V
+These objects orbit around YJH: [BC3]
+---------------------
+Name: NQZ
+Orbits: JKV
+These objects orbit around NQZ: [P7Q]
+---------------------
+Name: Q76
+Orbits: DGX
+These objects orbit around Q76: [W8M]
+---------------------
+Name: QZV
+Orbits: MJX
+These objects orbit around QZV: [SBR]
+---------------------
+Name: NL9
+Orbits: 9SB
+These objects orbit around NL9: [K3S]
+---------------------
+Name: B7Y
+Orbits: P8R
+These objects orbit around B7Y: [5VP]
+---------------------
+Name: 9GR
+Orbits: 689
+These objects orbit around 9GR: [CRD]
+---------------------
+Name: NS5
+Orbits: 5PZ
+These objects orbit around NS5: [Q83]
+---------------------
+Name: WYQ
+Orbits: HQP
+These objects orbit around WYQ: [J19]
+---------------------
+Name: 6TY
+Orbits: 6VC
+These objects orbit around 6TY: [8TX]
+---------------------
+Name: 4SS
+Orbits: 5V7
+These objects orbit around 4SS: [BQX]
+---------------------
+Name: L9B
+Orbits: CPB
+These objects orbit around L9B: [VPH]
+---------------------
+Name: VPH
+Orbits: L9B
+These objects orbit around VPH: []
+---------------------
+Name: 8T6
+Orbits: 1PV
+These objects orbit around 8T6: [JSF]
+---------------------
+Name: 446
+Orbits: Y7Q
+These objects orbit around 446: [7HP, 73F]
+---------------------
+Name: 9MM
+Orbits: LQY
+These objects orbit around 9MM: [RPZ, MFR]
+---------------------
+Name: 1PV
+Orbits: HMQ
+These objects orbit around 1PV: [8T6]
+---------------------
+Name: MLD
+Orbits: TQ6
+These objects orbit around MLD: [DHM]
+---------------------
+Name: VLK
+Orbits: FF2
+These objects orbit around VLK: [D74]
+---------------------
+Name: D74
+Orbits: VLK
+These objects orbit around D74: [6PJ]
+---------------------
+Name: HJZ
+Orbits: MX2
+These objects orbit around HJZ: [9HP]
+---------------------
+Name: 9HP
+Orbits: HJZ
+These objects orbit around 9HP: [VNM]
+---------------------
+Name: 3GQ
+Orbits: 53C
+These objects orbit around 3GQ: []
+---------------------
+Name: MBB
+Orbits: KNG
+These objects orbit around MBB: [SWM]
+---------------------
+Name: SWM
+Orbits: MBB
+These objects orbit around SWM: [VQQ]
+---------------------
+Name: SNN
+Orbits: S5L
+These objects orbit around SNN: [5TN]
+---------------------
+Name: 5TN
+Orbits: SNN
+These objects orbit around 5TN: [HMQ]
+---------------------
+Name: YQP
+Orbits: 1FL
+These objects orbit around YQP: [VS5]
+---------------------
+Name: R3J
+Orbits: YJT
+These objects orbit around R3J: [68S]
+---------------------
+Name: 68S
+Orbits: R3J
+These objects orbit around 68S: [P4Z]
+---------------------
+Name: 1X2
+Orbits: QMB
+These objects orbit around 1X2: [WT2]
+---------------------
+Name: WT2
+Orbits: 1X2
+These objects orbit around WT2: [8Y7]
+---------------------
+Name: BPF
+Orbits: MKM
+These objects orbit around BPF: [PW5]
+---------------------
+Name: PW5
+Orbits: BPF
+These objects orbit around PW5: [7W1]
+---------------------
+Name: MX7
+Orbits: QD6
+These objects orbit around MX7: [6ND]
+---------------------
+Name: CHJ
+Orbits: 7HZ
+These objects orbit around CHJ: [P14]
+---------------------
+Name: P5D
+Orbits: P3F
+These objects orbit around P5D: [YS1]
+---------------------
+Name: QN6
+Orbits: 3WZ
+These objects orbit around QN6: [ZQN]
+---------------------
+Name: ZQN
+Orbits: QN6
+These objects orbit around ZQN: []
+---------------------
+Name: FG2
+Orbits: XXQ
+These objects orbit around FG2: [WQ4]
+---------------------
+Name: HG3
+Orbits: JQW
+These objects orbit around HG3: [5SS]
+---------------------
+Name: 5SS
+Orbits: HG3
+These objects orbit around 5SS: [V93]
+---------------------
+Name: S2W
+Orbits: SH6
+These objects orbit around S2W: [7QG]
+---------------------
+Name: SYP
+Orbits: Y4H
+These objects orbit around SYP: [HQH]
+---------------------
+Name: J4Z
+Orbits: WSH
+These objects orbit around J4Z: [TJM, WXN]
+---------------------
+Name: STZ
+Orbits: 9M6
+These objects orbit around STZ: [WHD]
+---------------------
+Name: BMV
+Orbits: 2BQ
+These objects orbit around BMV: [D72]
+---------------------
+Name: NJK
+Orbits: CZF
+These objects orbit around NJK: [FCG]
+---------------------
+Name: 5PZ
+Orbits: MJ5
+These objects orbit around 5PZ: [NS5]
+---------------------
+Name: 8SM
+Orbits: 7NC
+These objects orbit around 8SM: [NPR]
+---------------------
+Name: P7Q
+Orbits: NQZ
+These objects orbit around P7Q: [5K8]
+---------------------
+Name: CKH
+Orbits: NHC
+These objects orbit around CKH: [MC7]
+---------------------
+Name: 4J8
+Orbits: KCF
+These objects orbit around 4J8: [KPD]
+---------------------
+Name: KPD
+Orbits: 4J8
+These objects orbit around KPD: [CRK]
+---------------------
+Name: SZD
+Orbits: WXR
+These objects orbit around SZD: [2ZQ]
+---------------------
+Name: K48
+Orbits: MHX
+These objects orbit around K48: [7FB]
+---------------------
+Name: 39P
+Orbits: FMP
+These objects orbit around 39P: []
+---------------------
+Name: 3XL
+Orbits: HP6
+These objects orbit around 3XL: [YJT]
+---------------------
+Name: YJT
+Orbits: 3XL
+These objects orbit around YJT: [R3J]
+---------------------
+Name: T3R
+Orbits: CYK
+These objects orbit around T3R: [M2B]
+---------------------
+Name: M2B
+Orbits: T3R
+These objects orbit around M2B: [KT3]
+---------------------
+Name: P3F
+Orbits: K11
+These objects orbit around P3F: [P5D]
+---------------------
+Name: NNK
+Orbits: 4BV
+These objects orbit around NNK: [5CV]
+---------------------
+Name: 5CV
+Orbits: NNK
+These objects orbit around 5CV: [GXR]
+---------------------
+Name: XHQ
+Orbits: 17X
+These objects orbit around XHQ: [R3S]
+---------------------
+Name: R3S
+Orbits: XHQ
+These objects orbit around R3S: [LYP]
+---------------------
+Name: GY8
+Orbits: 9KH
+These objects orbit around GY8: [S7T]
+---------------------
+Name: 7W1
+Orbits: PW5
+These objects orbit around 7W1: [VDQ, V3G]
+---------------------
+Name: VDQ
+Orbits: 7W1
+These objects orbit around VDQ: []
+---------------------
+Name: T2C
+Orbits: 7MM
+These objects orbit around T2C: [MCN]
+---------------------
+Name: K76
+Orbits: V59
+These objects orbit around K76: [Y8B]
+---------------------
+Name: ZVN
+Orbits: 67M
+These objects orbit around ZVN: [RKJ]
+---------------------
+Name: RKJ
+Orbits: ZVN
+These objects orbit around RKJ: [FN5]
+---------------------
+Name: N6J
+Orbits: YLM
+These objects orbit around N6J: [B7M]
+---------------------
+Name: B7M
+Orbits: N6J
+These objects orbit around B7M: [XS3]
+---------------------
+Name: DPC
+Orbits: HLH
+These objects orbit around DPC: [X6T]
+---------------------
+Name: X6T
+Orbits: DPC
+These objects orbit around X6T: [4MB]
+---------------------
+Name: ZSD
+Orbits: 2TR
+These objects orbit around ZSD: [SVJ]
+---------------------
+Name: DBH
+Orbits: WHD
+These objects orbit around DBH: [V7Y]
+---------------------
+Name: 8J1
+Orbits: YZ1
+These objects orbit around 8J1: [N1M]
+---------------------
+Name: QNB
+Orbits: GQF
+These objects orbit around QNB: [S5L]
+---------------------
+Name: S5L
+Orbits: QNB
+These objects orbit around S5L: [SNN]
+---------------------
+Name: NPS
+Orbits: SYR
+These objects orbit around NPS: [Z9L]
+---------------------
+Name: YMP
+Orbits: FM7
+These objects orbit around YMP: [NNV]
+---------------------
+Name: 95P
+Orbits: S5W
+These objects orbit around 95P: [G8P]
+---------------------
+Name: LLJ
+Orbits: 7HH
+These objects orbit around LLJ: [5RX]
+---------------------
+Name: 4MB
+Orbits: X6T
+These objects orbit around 4MB: [JXG]
+---------------------
+Name: JXG
+Orbits: 4MB
+These objects orbit around JXG: [TNB]
+---------------------
+Name: P4Z
+Orbits: 68S
+These objects orbit around P4Z: []
+---------------------
+Name: 58H
+Orbits: FNX
+These objects orbit around 58H: [J1L, RMJ]
+---------------------
+Name: J1L
+Orbits: 58H
+These objects orbit around J1L: [Q8G]
+---------------------
+Name: P8R
+Orbits: NY1
+These objects orbit around P8R: [B7Y]
+---------------------
+Name: MQJ
+Orbits: 4WY
+These objects orbit around MQJ: [4XP]
+---------------------
+Name: 4XP
+Orbits: MQJ
+These objects orbit around 4XP: [BDG]
+---------------------
+Name: TDZ
+Orbits: 85B
+These objects orbit around TDZ: [112]
+---------------------
+Name: J1W
+Orbits: GH7
+These objects orbit around J1W: [R42]
+---------------------
+Name: T99
+Orbits: GB6
+These objects orbit around T99: [CVW]
+---------------------
+Name: WK2
+Orbits: 5ZG
+These objects orbit around WK2: [PBG]
+---------------------
+Name: LBK
+Orbits: CG7
+These objects orbit around LBK: [MJS]
+---------------------
+Name: SS7
+Orbits: 5XF
+These objects orbit around SS7: []
+---------------------
+Name: FBK
+Orbits: NBT
+These objects orbit around FBK: []
+---------------------
+Name: BHG
+Orbits: ZMZ
+These objects orbit around BHG: [GHS]
+---------------------
+Name: YZQ
+Orbits: TZL
+These objects orbit around YZQ: [GMJ]
+---------------------
+Name: 3NP
+Orbits: WHW
+These objects orbit around 3NP: []
+---------------------
+Name: KT3
+Orbits: M2B
+These objects orbit around KT3: [96M]
+---------------------
+Name: Z9L
+Orbits: NPS
+These objects orbit around Z9L: [J4T]
+---------------------
+Name: R67
+Orbits: 51G
+These objects orbit around R67: [M4Y]
+---------------------
+Name: M4Y
+Orbits: R67
+These objects orbit around M4Y: [B9X]
+---------------------
+Name: M43
+Orbits: GKT
+These objects orbit around M43: [9PZ]
+---------------------
+Name: TF2
+Orbits: HQL
+These objects orbit around TF2: [BV1]
+---------------------
+Name: ZJQ
+Orbits: 2GG
+These objects orbit around ZJQ: [HB2]
+---------------------
+Name: WXR
+Orbits: JKT
+These objects orbit around WXR: [SZD, LRH]
+---------------------
+Name: 8WX
+Orbits: CPP
+These objects orbit around 8WX: [5DH]
+---------------------
+Name: YFD
+Orbits: WVM
+These objects orbit around YFD: [ZKL]
+---------------------
+Name: ZKL
+Orbits: YFD
+These objects orbit around ZKL: [33D]
+---------------------
+Name: 8C6
+Orbits: PMN
+These objects orbit around 8C6: [8VC]
+---------------------
+Name: DJ5
+Orbits: 2JH
+These objects orbit around DJ5: [NWW]
+---------------------
+Name: STF
+Orbits: 1JW
+These objects orbit around STF: [VRL]
+---------------------
+Name: KQJ
+Orbits: T49
+These objects orbit around KQJ: [6PP]
+---------------------
+Name: N3W
+Orbits: Q8G
+These objects orbit around N3W: [2TY]
+---------------------
+Name: GXR
+Orbits: 5CV
+These objects orbit around GXR: [QJK]
+---------------------
+Name: J2T
+Orbits: K5H
+These objects orbit around J2T: [526]
+---------------------
+Name: RW8
+Orbits: MY4
+These objects orbit around RW8: [LF3]
+---------------------
+Name: LF3
+Orbits: RW8
+These objects orbit around LF3: [WHF]
+---------------------
+Name: PXW
+Orbits: CJF
+These objects orbit around PXW: []
+---------------------
+Name: R4B
+Orbits: 4PZ
+These objects orbit around R4B: []
+---------------------
+Name: Y3T
+Orbits: B88
+These objects orbit around Y3T: [W6T]
+---------------------
+Name: W6T
+Orbits: Y3T
+These objects orbit around W6T: [P9B]
+---------------------
+Name: 1W5
+Orbits: 1PP
+These objects orbit around 1W5: [VDT]
+---------------------
+Name: 5ZG
+Orbits: G7G
+These objects orbit around 5ZG: [WK2]
+---------------------
+Name: 6PR
+Orbits: T6S
+These objects orbit around 6PR: [8KC]
+---------------------
+Name: 2ZV
+Orbits: RB6
+These objects orbit around 2ZV: [147]
+---------------------
+Name: R4R
+Orbits: 1VL
+These objects orbit around R4R: [B1G]
+---------------------
+Name: 1DN
+Orbits: S58
+These objects orbit around 1DN: [2M1]
+---------------------
+Name: 5J4
+Orbits: 7RN
+These objects orbit around 5J4: [B47]
+---------------------
+Name: B47
+Orbits: 5J4
+These objects orbit around B47: []
+---------------------
+Name: JF6
+Orbits: 11X
+These objects orbit around JF6: [YYS]
+---------------------
+Name: YYS
+Orbits: JF6
+These objects orbit around YYS: [Y28]
+---------------------
+Name: HL7
+Orbits: FXH
+These objects orbit around HL7: [M37]
+---------------------
+Name: M37
+Orbits: HL7
+These objects orbit around M37: [PZ3]
+---------------------
+Name: FGR
+Orbits: YN9
+These objects orbit around FGR: []
+---------------------
+Name: NJV
+Orbits: 121
+These objects orbit around NJV: [HPF]
+---------------------
+Name: MZN
+Orbits: XJR
+These objects orbit around MZN: [LN8]
+---------------------
+Name: B9X
+Orbits: M4Y
+These objects orbit around B9X: [GCM, WQZ]
+---------------------
+Name: NHP
+Orbits: W85
+These objects orbit around NHP: [6D9, 9WS]
+---------------------
+Name: LTG
+Orbits: D7F
+These objects orbit around LTG: [4B8]
+---------------------
+Name: B16
+Orbits: BLQ
+These objects orbit around B16: [TC8]
+---------------------
+Name: 9FC
+Orbits: 6M5
+These objects orbit around 9FC: [K7C]
+---------------------
+Name: WG9
+Orbits: 9H1
+These objects orbit around WG9: [WJK]
+---------------------
+Name: WJK
+Orbits: WG9
+These objects orbit around WJK: [QMB]
+---------------------
+Name: VDT
+Orbits: 1W5
+These objects orbit around VDT: [ZDX]
+---------------------
+Name: VS5
+Orbits: YQP
+These objects orbit around VS5: []
+---------------------
+Name: XGP
+Orbits: K91
+These objects orbit around XGP: [5DV]
+---------------------
+Name: CRD
+Orbits: 9GR
+These objects orbit around CRD: []
+---------------------
+Name: MB5
+Orbits: 425
+These objects orbit around MB5: [FR1]
+---------------------
+Name: WFX
+Orbits: GY4
+These objects orbit around WFX: [1TL]
+---------------------
+Name: LQB
+Orbits: 2ZJ
+These objects orbit around LQB: [L6P]
+---------------------
+Name: MS2
+Orbits: GJM
+These objects orbit around MS2: [QGV]
+---------------------
+Name: QGV
+Orbits: MS2
+These objects orbit around QGV: []
+---------------------
+Name: ZMZ
+Orbits: 7HP
+These objects orbit around ZMZ: [BHG]
+---------------------
+Name: TNX
+Orbits: TQV
+These objects orbit around TNX: [PBY]
+---------------------
+Name: FDH
+Orbits: DS4
+These objects orbit around FDH: [LXH]
+---------------------
+Name: 2BL
+Orbits: HHP
+These objects orbit around 2BL: []
+---------------------
+Name: MRW
+Orbits: CPL
+These objects orbit around MRW: [4NW]
+---------------------
+Name: D4P
+Orbits: KJK
+These objects orbit around D4P: [6MW]
+---------------------
+Name: 8Y8
+Orbits: 1VC
+These objects orbit around 8Y8: [S48]
+---------------------
+Name: S48
+Orbits: 8Y8
+These objects orbit around S48: [FB3]
+---------------------
+Name: MJS
+Orbits: LBK
+These objects orbit around MJS: [H5R]
+---------------------
+Name: GHB
+Orbits: NT2
+These objects orbit around GHB: [DGS]
+---------------------
+Name: HZG
+Orbits: FMY
+These objects orbit around HZG: [399]
+---------------------
+Name: DM4
+Orbits: P5K
+These objects orbit around DM4: []
+---------------------
+Name: 26Q
+Orbits: 72R
+These objects orbit around 26Q: []
+---------------------
+Name: BMD
+Orbits: 4CB
+These objects orbit around BMD: [361]
+---------------------
+Name: 5XW
+Orbits: 14D
+These objects orbit around 5XW: [R9C]
+---------------------
+Name: 7T3
+Orbits: 8LL
+These objects orbit around 7T3: [6TP]
+---------------------
+Name: 6TP
+Orbits: 7T3
+These objects orbit around 6TP: [14D]
+---------------------
+Name: TQV
+Orbits: QLQ
+These objects orbit around TQV: [TNX]
+---------------------
+Name: 4CZ
+Orbits: WBK
+These objects orbit around 4CZ: [JXC]
+---------------------
+Name: X5S
+Orbits: NCD
+These objects orbit around X5S: [37V]
+---------------------
+Name: HTQ
+Orbits: N5T
+These objects orbit around HTQ: [428]
+---------------------
+Name: R2D
+Orbits: N85
+These objects orbit around R2D: []
+---------------------
+Name: DKW
+Orbits: CXQ
+These objects orbit around DKW: [25M]
+---------------------
+Name: 71W
+Orbits: J4S
+These objects orbit around 71W: [7QK]
+---------------------
+Name: XV1
+Orbits: 4K2
+These objects orbit around XV1: [DLM]
+---------------------
+Name: 112
+Orbits: TDZ
+These objects orbit around 112: []
+---------------------
+Name: 65J
+Orbits: 9BR
+These objects orbit around 65J: [3KZ]
+---------------------
+Name: 3KZ
+Orbits: 65J
+These objects orbit around 3KZ: [78G]
+---------------------
+Name: JD3
+Orbits: FGP
+These objects orbit around JD3: [V9J]
+---------------------
+Name: V9J
+Orbits: JD3
+These objects orbit around V9J: [F97]
+---------------------
+Name: 1VC
+Orbits: 3NN
+These objects orbit around 1VC: [8Y8]
+---------------------
+Name: 2T5
+Orbits: R9Y
+These objects orbit around 2T5: [XPX]
+---------------------
+Name: VGD
+Orbits: KQG
+These objects orbit around VGD: []
+---------------------
+Name: S7T
+Orbits: GY8
+These objects orbit around S7T: [BPY]
+---------------------
+Name: BPY
+Orbits: S7T
+These objects orbit around BPY: []
+---------------------
+Name: 1RW
+Orbits: 3H4
+These objects orbit around 1RW: [21C]
+---------------------
+Name: SBV
+Orbits: 1WW
+These objects orbit around SBV: [M9J, HKC]
+---------------------
+Name: YLM
+Orbits: DZ9
+These objects orbit around YLM: [N6J]
+---------------------
+Name: XT2
+Orbits: 3PH
+These objects orbit around XT2: [9WQ]
+---------------------
+Name: 9WQ
+Orbits: XT2
+These objects orbit around 9WQ: [M61]
+---------------------
+Name: XVH
+Orbits: J3X
+These objects orbit around XVH: [1R9]
+---------------------
+Name: K32
+Orbits: 7YR
+These objects orbit around K32: [2Z6]
+---------------------
+Name: RGM
+Orbits: ZSN
+These objects orbit around RGM: []
+---------------------
+Name: 7KM
+Orbits: 1V6
+These objects orbit around 7KM: [7R1]
+---------------------
+Name: RMJ
+Orbits: 58H
+These objects orbit around RMJ: []
+---------------------
+Name: V79
+Orbits: FVW
+These objects orbit around V79: [D61]
+---------------------
+Name: J7R
+Orbits: WT1
+These objects orbit around J7R: [BFX]
+---------------------
+Name: MKM
+Orbits: P77
+These objects orbit around MKM: [BPF]
+---------------------
+Name: 6X1
+Orbits: MP9
+These objects orbit around 6X1: [Q99]
+---------------------
+Name: L6P
+Orbits: LQB
+These objects orbit around L6P: []
+---------------------
+Name: COM
+Orbits: None
+These objects orbit around COM: [KYQ]
+---------------------
+Name: LVB
+Orbits: S14
+These objects orbit around LVB: [SD1]
+---------------------
+Name: 7HZ
+Orbits: D6F
+These objects orbit around 7HZ: [CHJ]
+---------------------
+Name: WRM
+Orbits: NGP
+These objects orbit around WRM: [N4H]
+---------------------
+Name: 79F
+Orbits: 8M1
+These objects orbit around 79F: []
+---------------------
+Name: T9Q
+Orbits: 5BH
+These objects orbit around T9Q: [DLS]
+---------------------
+Name: 6GJ
+Orbits: XZ5
+These objects orbit around 6GJ: [WZ5]
+---------------------
+Name: HMQ
+Orbits: 5TN
+These objects orbit around HMQ: [1PV]
+---------------------
+Name: NTV
+Orbits: 2RB
+These objects orbit around NTV: []
+---------------------
+Name: YWL
+Orbits: GVM
+These objects orbit around YWL: []
+---------------------
+Name: BFX
+Orbits: J7R
+These objects orbit around BFX: [8XT]
+---------------------
+Name: 9YC
+Orbits: 2TB
+These objects orbit around 9YC: [6PB]
+---------------------
+Name: QHC
+Orbits: V86
+These objects orbit around QHC: []
+---------------------
+Name: ZTP
+Orbits: 4HZ
+These objects orbit around ZTP: [XLC]
+---------------------
+Name: XLC
+Orbits: ZTP
+These objects orbit around XLC: [3PH]
+---------------------
+Name: SD3
+Orbits: NFX
+These objects orbit around SD3: [JL5]
+---------------------
+Name: TRZ
+Orbits: 4BM
+These objects orbit around TRZ: [HG6]
+---------------------
+Name: FF8
+Orbits: TY9
+These objects orbit around FF8: [Z9J]
+---------------------
+Name: NT2
+Orbits: QV7
+These objects orbit around NT2: [GHB]
+---------------------
+Name: 14D
+Orbits: 6TP
+These objects orbit around 14D: [5XW]
+---------------------
+Name: XPR
+Orbits: 63K
+These objects orbit around XPR: [9MQ]
+---------------------
+Name: 9MQ
+Orbits: XPR
+These objects orbit around 9MQ: [GD7]
+---------------------
+Name: 4JM
+Orbits: TY1
+These objects orbit around 4JM: [QCX]
+---------------------
+Name: 361
+Orbits: BMD
+These objects orbit around 361: [NXD]
+---------------------
+Name: NXD
+Orbits: 361
+These objects orbit around NXD: [422]
+---------------------
+Name: 6SJ
+Orbits: K1M
+These objects orbit around 6SJ: [8N6, LZ8]
+---------------------
+Name: 1V6
+Orbits: X7S
+These objects orbit around 1V6: [7KM]
+---------------------
+Name: BR6
+Orbits: WYW
+These objects orbit around BR6: []
+---------------------
+Name: K7C
+Orbits: 9FC
+These objects orbit around K7C: [168]
+---------------------
+Name: 168
+Orbits: K7C
+These objects orbit around 168: [L44]
+---------------------
+Name: JL5
+Orbits: SD3
+These objects orbit around JL5: []
+---------------------
+Name: 9M6
+Orbits: 4DD
+These objects orbit around 9M6: [STZ]
+---------------------
+Name: Q8G
+Orbits: J1L
+These objects orbit around Q8G: [N3W]
+---------------------
+Name: DV3
+Orbits: 28F
+These objects orbit around DV3: [Q8N]
+---------------------
+Name: L9H
+Orbits: 3R1
+These objects orbit around L9H: []
+---------------------
+Name: JXC
+Orbits: 4CZ
+These objects orbit around JXC: [NBQ]
+---------------------
+Name: HPK
+Orbits: BDH
+These objects orbit around HPK: [5ZT, BHN]
+---------------------
+Name: 3X8
+Orbits: S4Q
+These objects orbit around 3X8: [FV7]
+---------------------
+Name: FV7
+Orbits: 3X8
+These objects orbit around FV7: []
+---------------------
+Name: G7G
+Orbits: 4NQ
+These objects orbit around G7G: [5ZG]
+---------------------
+Name: TL3
+Orbits: PCP
+These objects orbit around TL3: [9RW]
+---------------------
+Name: 8XT
+Orbits: BFX
+These objects orbit around 8XT: [TF7]
+---------------------
+Name: 839
+Orbits: 81J
+These objects orbit around 839: [7Y1]
+---------------------
+Name: 3XJ
+Orbits: 8HY
+These objects orbit around 3XJ: [5M5]
+---------------------
+Name: 1LD
+Orbits: B62
+These objects orbit around 1LD: [4M5]
+---------------------
+Name: 6PB
+Orbits: 9YC
+These objects orbit around 6PB: [ZDP]
+---------------------
+Name: 2WP
+Orbits: 4Y4
+These objects orbit around 2WP: [WG6]
+---------------------
+Name: 9PZ
+Orbits: M43
+These objects orbit around 9PZ: [BKD]
+---------------------
+Name: NBQ
+Orbits: JXC
+These objects orbit around NBQ: [261]
+---------------------
+Name: 261
+Orbits: NBQ
+These objects orbit around 261: []
+---------------------
+Name: HPF
+Orbits: NJV
+These objects orbit around HPF: [HLH]
+---------------------
+Name: 323
+Orbits: GMP
+These objects orbit around 323: [KNM]
+---------------------
+Name: SJ5
+Orbits: K9Z
+These objects orbit around SJ5: [B1Q]
+---------------------
+Name: B1Q
+Orbits: SJ5
+These objects orbit around B1Q: []
+---------------------
+Name: DFL
+Orbits: JS2
+These objects orbit around DFL: [F85]
+---------------------
+Name: 1YS
+Orbits: 7W3
+These objects orbit around 1YS: [M78]
+---------------------
+Name: D6F
+Orbits: HLP
+These objects orbit around D6F: [7HZ]
+---------------------
+Name: 7RN
+Orbits: QWY
+These objects orbit around 7RN: [5J4]
+---------------------
+Name: P77
+Orbits: 4XK
+These objects orbit around P77: [MKM]
+---------------------
+Name: CCV
+Orbits: 9W2
+These objects orbit around CCV: []
+---------------------
+Name: WNH
+Orbits: P25
+These objects orbit around WNH: [PTP]
+---------------------
+Name: G9W
+Orbits: XFL
+These objects orbit around G9W: []
+---------------------
+Name: HNZ
+Orbits: WNY
+These objects orbit around HNZ: []
+---------------------
+Name: CPP
+Orbits: PND
+These objects orbit around CPP: [8WX]
+---------------------
+Name: 2LQ
+Orbits: XX5
+These objects orbit around 2LQ: [6CJ]
+---------------------
+Name: CY1
+Orbits: F82
+These objects orbit around CY1: [6HZ]
+---------------------
+Name: FP7
+Orbits: VRR
+These objects orbit around FP7: []
+---------------------
+Name: Y77
+Orbits: 3QM
+These objects orbit around Y77: [NY2]
+---------------------
+Name: TQ7
+Orbits: BCH
+These objects orbit around TQ7: [ZL1]
+---------------------
+Name: MJV
+Orbits: 44H
+These objects orbit around MJV: [DTN]
+---------------------
+Name: GZT
+Orbits: 78Y
+These objects orbit around GZT: [WMC]
+---------------------
+Name: C4F
+Orbits: DPY
+These objects orbit around C4F: []
+---------------------
+Name: QY4
+Orbits: 6KL
+These objects orbit around QY4: [XF7]
+---------------------
+Name: N4H
+Orbits: WRM
+These objects orbit around N4H: [W29]
+---------------------
+Name: 17X
+Orbits: 39N
+These objects orbit around 17X: [XHQ]
+---------------------
+Name: K9Z
+Orbits: 99W
+These objects orbit around K9Z: [SJ5]
+---------------------
+Name: WHF
+Orbits: LF3
+These objects orbit around WHF: [1VL]
+---------------------
+Name: 1NR
+Orbits: QTH
+These objects orbit around 1NR: [T56]
+---------------------
+Name: T56
+Orbits: 1NR
+These objects orbit around T56: []
+---------------------
+Name: D72
+Orbits: BMV
+These objects orbit around D72: [S9B]
+---------------------
+Name: TCD
+Orbits: HDT
+These objects orbit around TCD: [GB9]
+---------------------
+Name: GB9
+Orbits: TCD
+These objects orbit around GB9: [ZR1]
+---------------------
+Name: GMP
+Orbits: WT1
+These objects orbit around GMP: [323]
+---------------------
+Name: 2Z6
+Orbits: K32
+These objects orbit around 2Z6: [FQG]
+---------------------
+Name: L6G
+Orbits: QV6
+These objects orbit around L6G: [TY9]
+---------------------
+Name: TY9
+Orbits: L6G
+These objects orbit around TY9: [FF8]
+---------------------
+Name: FNX
+Orbits: 98M
+These objects orbit around FNX: [58H]
+---------------------
+Name: KM5
+Orbits: KXH
+These objects orbit around KM5: [6KV]
+---------------------
+Name: 6KV
+Orbits: KM5
+These objects orbit around 6KV: []
+---------------------
+Name: Z2X
+Orbits: LQT
+These objects orbit around Z2X: [3P6]
+---------------------
+Name: R9Y
+Orbits: ZV2
+These objects orbit around R9Y: [2T5]
+---------------------
+Name: RC9
+Orbits: 26D
+These objects orbit around RC9: []
+---------------------
+Name: M78
+Orbits: 1YS
+These objects orbit around M78: [4NB]
+---------------------
+Name: TX2
+Orbits: PX5
+These objects orbit around TX2: [H98, MJQ]
+---------------------
+Name: WMC
+Orbits: GZT
+These objects orbit around WMC: []
+---------------------
+Name: 1VL
+Orbits: WHF
+These objects orbit around 1VL: [R4R]
+---------------------
+Name: 785
+Orbits: SMC
+These objects orbit around 785: []
+---------------------
+Name: T49
+Orbits: 5YG
+These objects orbit around T49: [KQJ]
+---------------------
+Name: S39
+Orbits: 4XK
+These objects orbit around S39: [LSG]
+---------------------
+Name: QBT
+Orbits: JDM
+These objects orbit around QBT: []
+---------------------
+Name: GTX
+Orbits: VJH
+These objects orbit around GTX: []
+---------------------
+Name: 3PH
+Orbits: XLC
+These objects orbit around 3PH: [XT2]
+---------------------
+Name: 4BM
+Orbits: JSF
+These objects orbit around 4BM: [TRZ]
+---------------------
+Name: DBV
+Orbits: NCT
+These objects orbit around DBV: [6BJ]
+---------------------
+Name: TY1
+Orbits: B6S
+These objects orbit around TY1: [4JM]
+---------------------
+Name: H8R
+Orbits: DV2
+These objects orbit around H8R: [2ZW]
+---------------------
+Name: 2ZW
+Orbits: H8R
+These objects orbit around 2ZW: [81Q]
+---------------------
+Name: 3P6
+Orbits: Z2X
+These objects orbit around 3P6: []
+---------------------
+Name: GT6
+Orbits: C6C
+These objects orbit around GT6: [QHR]
+---------------------
+Name: QHR
+Orbits: GT6
+These objects orbit around QHR: [GP7]
+---------------------
+Name: X8K
+Orbits: 465
+These objects orbit around X8K: []
+---------------------
+Name: 2H7
+Orbits: X9M
+These objects orbit around 2H7: []
+---------------------
+Name: 4V3
+Orbits: YBB
+These objects orbit around 4V3: [LST]
+---------------------
+Name: LST
+Orbits: 4V3
+These objects orbit around LST: []
+---------------------
+Name: 22K
+Orbits: 1YC
+These objects orbit around 22K: [K8G]
+---------------------
+Name: P9M
+Orbits: WVL
+These objects orbit around P9M: []
+---------------------
+Name: 2R1
+Orbits: 8PN
+These objects orbit around 2R1: [7VP]
+---------------------
+Name: 6KL
+Orbits: M1R
+These objects orbit around 6KL: [QY4]
+---------------------
+Name: X7S
+Orbits: 6FC
+These objects orbit around X7S: [C2T, 1V6]
+---------------------
+Name: FSN
+Orbits: M1R
+These objects orbit around FSN: [VRH]
+---------------------
+Name: YPT
+Orbits: T2F
+These objects orbit around YPT: []
+---------------------
+Name: Z1S
+Orbits: 6Q4
+These objects orbit around Z1S: []
+---------------------
+Name: 4NB
+Orbits: M78
+These objects orbit around 4NB: []
+---------------------
+Name: 8D1
+Orbits: WFT
+These objects orbit around 8D1: []
+---------------------
+Name: V93
+Orbits: 5SS
+These objects orbit around V93: []
+---------------------
+Name: K8G
+Orbits: 22K
+These objects orbit around K8G: []
+---------------------
+Name: 7K5
+Orbits: 9DJ
+These objects orbit around 7K5: []
+---------------------
+Name: R8R
+Orbits: C3M
+These objects orbit around R8R: []
+---------------------
